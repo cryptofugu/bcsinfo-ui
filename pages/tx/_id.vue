@@ -44,7 +44,7 @@
         </div>
         <div class="columns" v-if="fees > 0">
           <div class="column info-title">{{ $t('transaction.transaction_fee') }}</div>
-          <div class="column info-value monospace">{{ fees | qtum }} QTUM</div>
+          <div class="column info-value monospace">{{ fees | bcs }} BCS</div>
         </div>
 
         <Transaction
@@ -119,12 +119,15 @@
 <script>
   import Block from '@/models/block'
   import Transaction from '@/models/transaction'
-  import {RequestError} from '@/services/qtuminfo-api'
+  import {RequestError} from '@/services/bcsinfo-api'
 
   export default {
     head() {
       return {
-        title: this.$t('blockchain.transaction') + ' ' + this.id
+        title: this.$tc('blockchain.transaction', 1) + ' ' + this.id,
+		meta: [
+			{ name: 'description', content: this.$t('descriptions.transaction.summary') + this.id + this.$t('descriptions.transaction.block') + this.blockHeight + this.$t('descriptions.transaction.tx_size') + this.size + this.$t('descriptions.transaction.confirms') + this.confirmations + '.' }
+		]
       }
     },
     data() {

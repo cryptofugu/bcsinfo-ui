@@ -45,6 +45,30 @@ export default function({app, req}) {
   i18n = app.i18n = new VueI18N({
     locale: i18nLocale,
     fallbackLocale: 'en',
-    messages
-  })
+	pluralizationRules: {
+    // Language to use the rule for, 'ru', in this case
+		'ru': function (choice, choicesLength) {
+			if (choice === 0) {
+				return 0;
+			 }
+			 
+			 if (choicesLength === 2) {
+				 if (choice === 1) {
+					 return 0
+				 }
+				 return 1
+			 }
+
+			if (choice%10 === 1 && choice%100 !== 11) {
+				return 1
+			}
+			
+			if (choice%10 >= 2 && choice%10 <= 4 && (choice%100 < 10 || choice%100 > 20)) {
+				return 2
+			}
+			return 3
+		}
+	},
+	messages
+	})
 }

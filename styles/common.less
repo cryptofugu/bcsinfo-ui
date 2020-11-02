@@ -8,13 +8,13 @@
   font-family: monospace;
 }
 
-.button.is-qtum {
+.button.is-bcs {
   border-color: transparent;
-  background-color: @qtum;
+  background-color: @bcs;
   color: white;
 
   &:hover, .is-hovered {
-    background-color: darken(@qtum, 3%);
+    background-color: darken(@bcs, 3%);
     color: white;
   }
 
@@ -22,30 +22,30 @@
     outline: none;
     color: white;
     &:not(:active) {
-      box-shadow: 0 0 0 0.125rem fade(@qtum, 25%);
+      box-shadow: 0 0 0 0.125rem fade(@bcs, 25%);
     }
   }
 
   &:active, .is-actived {
     outline: none;
-    background-color: darken(@qtum, 5%);
+    background-color: darken(@bcs, 5%);
     color: white;
   }
 
   &.is-outlined {
-    border-color: @qtum;
+    border-color: @bcs;
     background-color: transparent;
-    color: @qtum;
+    color: @bcs;
     &:hover, .is-hovered {
-      border-color: @qtum;
-      background-color: @qtum;
+      border-color: @bcs;
+      background-color: @bcs;
       color: white;
     }
   }
 
   &.is-inverted {
     background-color: white;
-    color: @qtum;
+    color: @bcs;
     &:hover, .is-hovered {
       background-color: #f2f2f2;
       color: white;
@@ -58,13 +58,13 @@
     color: white;
     &:hover {
       background-color: white;
-      color: @qtum;
+      color: @bcs;
     }
   }
 
   &[disabled] {
     border-color: transparent;
-    background-color: @qtum;
+    background-color: @bcs;
     box-shadow: none;
   }
 }

@@ -16,7 +16,7 @@
   import Vue from 'vue'
   import Address from '@/models/address'
   import Transaction from '@/models/transaction'
-  import {RequestError} from '@/services/qtuminfo-api'
+  import {RequestError} from '@/services/bcsinfo-api'
   import {extendAddress} from '@/utils/address'
   import {scrollIntoView} from '@/utils/dom'
 

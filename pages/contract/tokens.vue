@@ -32,13 +32,16 @@
 
 <script>
   import Contract from '@/models/contract'
-  import {RequestError} from '@/services/qtuminfo-api'
+  import {RequestError} from '@/services/bcsinfo-api'
   import {scrollIntoView} from '@/utils/dom'
 
   export default {
     head() {
       return {
-        title: this.$t('contract.token.tokens')
+        title: this.$t('contract.token.tokens'),
+		meta: [
+			{ name: 'description', content: this.$t('descriptions.tokens')  }
+		]
       }
     },
     data() {

@@ -139,7 +139,7 @@ misc:
   stake_calculator:
     title: 挖矿计算器
     enter_address: 输入你的地址（可选）
-    weight: 你的 QTUM 数量
+    weight: 你的 BCS 数量
     expected_time: 期望用时
     seconds: 秒
     minutes: 分钟

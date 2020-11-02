@@ -1,4 +1,4 @@
-import * as QtuminfoAPI from '@/services/qtuminfo-api'
+import * as QtuminfoAPI from '@/services/bcsinfo-api'
 
 function formatTimestamp(date) {
   let yyyy = date.getUTCFullYear().toString()

@@ -14,12 +14,15 @@
 
 <script>
   import Misc from '@/models/misc'
-  import {RequestError} from '@/services/qtuminfo-api'
+  import {RequestError} from '@/services/bcsinfo-api'
 
   export default {
     head() {
       return {
-        title: this.$t('misc.charts_title')
+        title: this.$t('misc.charts_title'),
+		meta: [
+			{ name: 'description', content: this.$t('descriptions.misc.charts')  }
+		]
       }
     },
     data() {
@@ -56,7 +59,8 @@
         ])
         let chart = echarts.init(this.$refs['daily-transactions'])
         chart.setOption({
-          title: {text: this.$t('misc.stats.daily_transactions')},
+          title: {text: this.$t('misc.stats.daily_transactions'), textStyle: {color: 'rgba(187,159,137, 1)'} },
+		  textStyle: {color: 'rgb(187,159,137)'},
           tooltip: {trigger: 'axis', axisPointer: {axis: 'x'}},
           xAxis: {type: 'time'},
           yAxis: {type: 'value', minInterval: 1},
@@ -65,14 +69,16 @@
               type: 'bar',
               name: this.$tc('misc.stats.contract_transactions', 2),
               stack: 1,
-              itemStyle: {color: '#64cc6d'},
+              itemStyle: {color: '#64cc6d', opacity: '0.2'},
+			  emphasis: {itemStyle: {color: '#64cc6d', opacity: '1'}},
               data: this.dailyTransactions.map(({time, contractTransactionCount}) => [time, contractTransactionCount])
             },
             {
               type: 'bar',
               name: this.$tc('misc.stats.total_transactions', 2),
               stack: 1,
-              itemStyle: {color: 'rgba(46, 154, 208, 1)'},
+              itemStyle: {color: 'rgba(187,159,137,0.2)'},
+			  emphasis: {itemStyle: {color: 'rgba(187,159,137,1)'}},
               data: this.dailyTransactions.map(({time, transactionCount, contractTransactionCount}) => [
                 time, transactionCount - contractTransactionCount, transactionCount
               ]),
@@ -103,8 +109,9 @@
         let maxInterval = Math.ceil(Math.log(total * 2 / 9) / Math.log(9 / 8))
         let chart = echarts.init(this.$refs['block-interval'])
         chart.setOption({
-          title: {text: this.$t('misc.stats.block_interval')},
+          title: {text: this.$t('misc.stats.block_interval'), textStyle: {color: 'rgba(187,159,137, 1)'}},
           tooltip: {trigger: 'axis', axisPointer: {axis: 'x'}},
+		  textStyle: {color: 'rgb(187,159,137)'},
           xAxis: {
             type: 'value',
             name: this.$t('misc.stats.interval'),
@@ -119,8 +126,8 @@
             type: 'bar',
             name: this.$t('misc.stats.blocks'),
             symbol: 'none',
-            itemStyle: {color: 'rgba(46, 154, 208, 1)'},
-            lineStyle: {color: 'rgba(46, 154, 208, 1)'},
+            itemStyle: {color: 'rgba(187,159,137, 1)'},
+            lineStyle: {color: 'rgba(187,159,137, 1)'},
             data: this.blockInterval.map(({interval, count}) => [interval, count])
           },
           dataZoom: {type: 'slider', endValue: 600}
@@ -136,7 +143,8 @@
         ])
         let chart = echarts.init(this.$refs['address-growth'])
         chart.setOption({
-          title: {text: this.$t('misc.stats.address_growth')},
+          title: {text: this.$t('misc.stats.address_growth'), textStyle: {color: 'rgba(187,159,137, 1)'}},
+		  textStyle: {color: 'rgb(187,159,137)'},
           tooltip: {trigger: 'axis', axisPointer: {axis: 'x'}},
           xAxis: {type: 'time'},
           yAxis: {type: 'value', minInterval: 1},
@@ -145,8 +153,8 @@
             name: this.$tc('blockchain.address', 2),
             smooth: true,
             symbol: 'none',
-            itemStyle: {color: 'rgba(46, 154, 208, 1)'},
-            lineStyle: {color: 'rgba(46, 154, 208, 1)'},
+            itemStyle: {color: 'rgba(187,159,137, 1)'},
+            lineStyle: {color: 'rgba(187,159,137, 1)'},
             data: this.addressGrowth.map(({time, addresses}) => [time, addresses])
           },
           dataZoom: {type: 'slider'},

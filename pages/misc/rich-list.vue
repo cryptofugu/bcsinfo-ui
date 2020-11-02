@@ -16,7 +16,7 @@
           <td>
             <AddressLink :address="address" />
           </td>
-          <td class="monospace break-word">{{ balance | qtum(8) }} QTUM</td>
+          <td class="monospace break-word">{{ balance | bcs(8) }} BCS</td>
           <td class="monospace">{{ (balance / totalSupply * 100).toFixed(4) + '%' }}</td>
         </tr>
       </tbody>
@@ -27,13 +27,16 @@
 
 <script>
   import Misc from '@/models/misc'
-  import {RequestError} from '@/services/qtuminfo-api'
+  import {RequestError} from '@/services/bcsinfo-api'
   import {scrollIntoView} from '@/utils/dom'
 
   export default {
     head() {
       return {
-        title: this.$t('misc.rich_list_title')
+        title: this.$t('misc.rich_list_title'),
+		meta: [
+			{ name: 'description', content: this.$t('descriptions.misc.rich_list')  }
+		]
       }
     },
     data() {
@@ -72,18 +75,20 @@
       totalSupply() {
         let height = this.blockchain.height
         if (height <= 5000) {
-          return height * 20000
-        }
-        let supply = 1e16
-        let reward = 4e8
-        let interval = 985500
-        height -= 5000
-        let halvings = 0
-        while (halvings < 7 && height > interval) {
-          supply += interval * (reward >>> halvings++)
-          height -= interval
-        }
-        return supply + height * (reward >>> halvings)
+          return height * 1e13
+        } else {
+      let supply = 5*1e16
+      let reward = 1000*1e8
+      let interval = 250000
+      let stakeHeight = height - 5000
+      let halvings = 0
+      while (halvings < 7 && stakeHeight > interval) {
+        supply += interval * reward / (1 << halvings++)
+        stakeHeight -= interval
+      }
+      supply += stakeHeight * reward / (1 << halvings)
+      return supply
+    }
       },
       pages() {
         return Math.ceil(this.totalCount / 100)

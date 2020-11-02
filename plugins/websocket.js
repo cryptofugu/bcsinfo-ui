@@ -3,7 +3,7 @@ import io from 'socket.io-client'
 
 export default function({app}) {
   let ws = io(
-    (location.protocol === 'https:' ? 'wss:' : 'ws:') + process.env.qtuminfoWSBase,
+    (location.protocol === 'https:' ? 'wss:' : 'ws:') + process.env.bcsinfoWSBase,
     {transports: ['websocket']}
   )
   ws.on('tip', tip => app.store.commit('blockchain/height', tip.height))

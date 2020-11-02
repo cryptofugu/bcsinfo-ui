@@ -31,7 +31,7 @@
               <TransactionLink :transaction="input.prevTxId" :clipboard="false">
                 <Icon icon="search" />
               </TransactionLink>
-              {{ input.value | qtum(8) }} QTUM
+              {{ input.value | bcs(8) }} BCS
             </span>
           </template>
         </div>
@@ -47,7 +47,7 @@
               <TransactionLink :transaction="input.prevTxId" :clipboard="false">
                 <Icon icon="search" />
               </TransactionLink>
-              {{ input.value | qtum(8) }} QTUM
+              {{ input.value | bcs(8) }} BCS
             </span>
           </template>
           <div class="is-clearfix"></div>
@@ -59,7 +59,7 @@
             <div v-if="input.scriptSig.asm">
               <span class="key">{{ $t('transaction.script.script') }}</span>
               <code class="value"><!--
-                -->{{ input.scriptSig.asm | qtum-script }}<!--
+                -->{{ input.scriptSig.asm | bcs-script }}<!--
               --></code>
             </div>
             <div v-for="witness in input.witness || []">
@@ -87,7 +87,7 @@
             <TransactionLink v-if="output.spentTxId" :transaction="output.spentTxId" :clipboard="false">
               <Icon icon="search" />
             </TransactionLink>
-            {{ output.value | qtum(8) }} QTUM
+            {{ output.value | bcs(8) }} BCS
           </span>
           <span class="is-pulled-right" v-else-if="contractInfo[index]">
             {{ $t('transaction.script.contract_' + contractInfo[index].type) }}
@@ -109,7 +109,7 @@
             <TransactionLink v-if="output.spentTxId" :transaction="output.spentTxId" :clipboard="false">
               <Icon icon="search" />
             </TransactionLink>
-            {{ output.value | qtum(8) }} QTUM
+            {{ output.value | bcs(8) }} BCS
           </span>
           <span class="is-pulled-right" v-else-if="contractInfo[index]">
             {{ $t('transaction.script.contract_' + contractInfo[index].type) }}
@@ -125,7 +125,7 @@
               <span class="key">{{ $t('transaction.script.script') }}</span>
               <code class="value" :class="{'script-code': contractInfo[index]}"
                 @click="$set(showByteCode, index, !showByteCode[index])"><!--
-                -->{{ output.scriptPubKey.asm | qtum-script }}<!--
+                -->{{ output.scriptPubKey.asm | bcs-script }}<!--
               --></code>
             </div>
             <template v-if="contractInfo[index]">
@@ -153,7 +153,7 @@
             <AddressLink :address="inputs[0].address" class="is-pulled-left"
               :highlight="highlightAddress" :clipboard="false" />
             <span class="is-pulled-right amount break-word">
-              {{ refundValue | qtum(8) }} QTUM
+              {{ refundValue | bcs(8) }} BCS
             </span>
           </div>
         </div>
@@ -165,7 +165,7 @@
         <div v-for="input in inputs" class="is-clearfix">
           <AddressLink :address="input.address" class="is-pulled-left" :highlight="highlightAddress" :clipboard="false" />
           <span class="is-pulled-right amount">
-            {{ input.value | qtum(8) }} QTUM
+            {{ input.value | bcs(8) }} BCS
           </span>
         </div>
       </div>
@@ -174,7 +174,7 @@
         <div v-for="output in outputs" class="is-clearfix">
           <AddressLink :address="output.address" class="is-pulled-left" :highlight="highlightAddress" :clipboard="false" />
           <span class="is-pulled-right amount">
-            {{ output.value | qtum(8) }} QTUM
+            {{ output.value | bcs(8) }} BCS
           </span>
         </div>
       </div>
@@ -235,10 +235,10 @@
     </template>
     <div class="column is-full has-text-right collapse-bottom" v-if="fees !== '0'">
       <template v-if="fees > 0">
-        {{ $t('transaction.fee') }} <span class="amount fee">{{ fees | qtum }} QTUM</span>
+        {{ $t('transaction.fee') }} <span class="amount fee">{{ fees | bcs }} BCS</span>
       </template>
       <template v-else-if="fees < 0">
-        {{ $t('transaction.reward') }} <span class="amount fee">{{ -fees | qtum }} QTUM</span>
+        {{ $t('transaction.reward') }} <span class="amount fee">{{ -fees | bcs }} BCS</span>
       </template>
     </div>
   </div>
@@ -377,7 +377,7 @@
       }
     },
     filters: {
-      'qtum-script'(asm) {
+      'bcs-script'(asm) {
         let chunks = asm.split(' ')
         if (['OP_CREATE', 'OP_CALL'].includes(chunks[chunks.length - 1])) {
           if (chunks.includes('OP_SENDER')) {

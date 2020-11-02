@@ -3,31 +3,41 @@
     <div class="container">
       <h3 class="is-size-4 is-uppercase">{{ $t('footer.contact_us') }}</h3>
       <div class="line"></div>
-      <a href="mailto:foundation@qtum.org">foundation@qtum.org</a>
+      <a href="mailto:hello@cryptofugu.com">hello@cryptofugu.com</a>
       <ul class="links">
         <li>
-          <a target="_blank" href="https://www.facebook.com/QtumOfficial/">
+          <a target="_blank" href="https://www.facebook.com/#">
             <Icon icon="facebook" brands /> {{ $t('footer.facebook') }}
           </a>
         </li>
         <li>
-          <a target="_blank" href="https://twitter.com/qtumofficial">
+          <a target="_blank" href="https://twitter.com/#">
             <Icon icon="twitter" brands /> {{ $t('footer.twitter') }}
           </a>
         </li>
         <li>
-          <a target="_blank" href="https://forum.qtum.org">
-            <span class="qtum-icon qtum-icon--qtum"></span> {{ $t('footer.forum') }}
+          <a target="_blank" href="#">
+            <span class="bcs-icon bcs-icon--forum"></span> {{ $t('footer.forum') }}
           </a>
         </li>
         <li>
-          <a target="_blank" href="https://github.com/qtumproject/qtum">
+          <a target="_blank" href="https://github.com/cryptofugu/bcschain-core">
             <Icon icon="github" brands /> Github
+          </a>
+        </li>
+		<li>
+          <a target="_blank" href="https://bcschain.org/">
+            <span class="bcs-icon bcs-icon--bcschain"></span> BCSChain
+          </a>
+        </li>
+		<li>
+          <a target="_blank" href="https://cryptofugu.com/">
+            <span class="bcs-icon bcs-icon--bcs"></span> CryptoFugu
           </a>
         </li>
       </ul>
       <div class="copyright">
-        2017 - 2019 QTUM CHAIN FOUNDATION &copy; All rights Reserved
+        2020 BCS CHAIN FOUNDATION &copy; {{ $t('footer.rights_reserved') }}
       </div>
     </div>
   </footer>
@@ -37,9 +47,9 @@
   footer {
     padding-top: 6rem;
     padding-bottom: 6rem;
-    background-color: #1a191e;
+    background-color: #27262e;
     text-align: center;
-    color: white;
+    color: #faede3;
   }
   a:link, a:visited, a:hover, a:active {
     color: inherit;
@@ -48,7 +58,7 @@
     width: 2rem;
     height: 1px;
     margin: 0.5rem auto;
-    background-color: white;
+    background-color: #faede3;
   }
   .links {
     display: flex;
@@ -74,7 +84,7 @@
       margin-bottom: 2.5rem;
     }
   }
-  span.fab, span.fas, span.qtum-icon {
+  span.fab, span.fas, span.bcs-icon {
     font-size: 2em;
     vertical-align: middle;
   }

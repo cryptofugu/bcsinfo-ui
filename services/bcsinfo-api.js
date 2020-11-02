@@ -8,7 +8,7 @@ export class RequestError extends ExtendableError {
   }
 }
 
-const resource = axios.create({baseURL: process.env.qtuminfoAPIBase})
+const resource = axios.create({baseURL: process.env.bcsinfoAPIBase})
 export default resource
 
 export function request(...args) {

@@ -1,4 +1,4 @@
-import * as QtuminfoAPI from '@/services/qtuminfo-api'
+import * as QtuminfoAPI from '@/services/bcsinfo-api'
 
 class Misc {
   static info(options = {}) {

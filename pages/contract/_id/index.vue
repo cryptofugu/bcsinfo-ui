@@ -16,7 +16,7 @@
   import Vue from 'vue'
   import Contract from '@/models/contract'
   import Transaction from '@/models/transaction'
-  import {RequestError} from '@/services/qtuminfo-api'
+  import {RequestError} from '@/services/bcsinfo-api'
   import {scrollIntoView} from '@/utils/dom'
 
   export default {

@@ -7,7 +7,7 @@ function addAmountDelimiters(string) {
   })
 }
 
-Vue.filter('qtum', (satoshis, precision = null) => {
+Vue.filter('bcs', (satoshis, precision = null) => {
   if (precision == null) {
     let s = satoshis.toString().padStart(9, '0')
     return addAmountDelimiters((s.slice(0, -8) + '.' + s.slice(-8)).replace(/\.?0*$/g, ''))

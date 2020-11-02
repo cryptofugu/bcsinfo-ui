@@ -2,12 +2,12 @@
   <form @submit.prevent="submit">
     <div class="field">
       <div class="control">
-        <textarea class="textarea" v-model="data" placeholder="Raw Transaction Data"></textarea>
+        <textarea class="textarea" v-model="data" v-bind:placeholder="$t('misc.raw_tx.title')"></textarea>
       </div>
     </div>
     <div class="field">
       <div class="control">
-        <button type="submit" class="button is-link">Submit</button>
+        <button type="submit" class="button is-link">{{ $t('misc.raw_tx.submit') }}</button>
       </div>
     </div>
     <div v-if="transaction" class="card section-card">
@@ -35,7 +35,10 @@
   export default {
     head() {
       return {
-        title: 'Send Raw Transaction'
+        title: this.$t('misc.raw_tx.title'),
+		meta: [
+			{ name: 'description', content: this.$t('descriptions.misc.raw_tx')  }
+		]
       }
     },
     data() {

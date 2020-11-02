@@ -1,3 +1,36 @@
+descriptions:
+  index: BCSChain.info is the official blockchain explorer of BCSChain. Search transactions, addresses, blocks, smart-contracts, tokens.
+  block:
+      summary: 'Summary of block #'
+      block_hash: '. Block hash: ' 
+      block_reward: '. Block reward: ' 
+      txcounts: ' BCS. Block transaction count ' 
+      block_size: '.  Block size: '
+  address:
+      summary: 'Summary of address '
+      rating: '. Rating -  ' 
+      balance: '. Balance: ' 
+      blocks_mined: ' sat. Blocks mined: ' 
+      tx_count: '. Transaction count: '
+  block_list: The block list of BCSChain blockchain. Block height. Block timestamp. Block reward. Block size. Transaction count.
+  misc:
+    charts: BCSChain statistics in charts. Daily transactions. Block interval. Address growth.
+    rich_list: BCS Coin owners list. Rating. Balance. Ownership percentage.
+    biggest_miners: Stakers statistics in BCSChain. Rating. Blocks mined. Percentage. Balance.
+    stake_calc: Staking calculator in BCSChain. Find out how many coins you can mine.
+    raw_tx: Send transaction in BCSChain network with hex-code.
+  contract: 
+    summary: 'Summary of smart-contract '
+    token_name: '. Token name - '
+    ticker: '. Ticker - '
+    total_supply: '. Total supply: '
+    tx_list: '. Transactions and owners list of the token '
+  tokens: Tokens list in BCSChian network. Rating. Token names. Total supply. Transactions. Token owners.
+  transaction:
+    summary: 'Summary of transaction '
+    block: '. Included in block '
+    tx_size: '. Transaction size: '
+    confirms: '. Confirmations: '
 blockchain:
   blockchain: Blockchain
   address: Address | Addresses
@@ -13,7 +46,9 @@ blockchain:
 block:
   brief:
     address: Mined by {0}
-    transaction: '{0} transactions in {1} secs'
+    transaction: transaction | transactions
+    in: in
+    seconds: sec | secs
     reward: Block Reward
   list:
     block_list: Blocks
@@ -79,7 +114,7 @@ address:
   address: Address
   balance: Balance
   unconfirmed: unconfirmed
-  staking: staking
+  staking: immature
   total_received: Total Received
   total_sent: Total Sent
   token_balances: Token Balances
@@ -151,6 +186,10 @@ misc:
     average_blocks_per_day: Average Blocks Per Day
     average_blocks_per_year: Average Blocks Per Year
     yearly_roi: Yearly ROI
+  raw_tx: 
+    title: Send raw transaction
+    placeholder: Raw transaction data (in hex)
+    submit: Send
 nav:
   search: Search by Block / Transaction / Address / Contract / Token
 pagination:
@@ -160,6 +199,7 @@ footer:
   facebook: Facebook
   twitter: Twitter
   forum: Forum
+  rights_reserved: All rights reserved
 action:
   copy: Copy
   view_all: View All

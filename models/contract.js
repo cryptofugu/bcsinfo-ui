@@ -1,4 +1,4 @@
-import * as QtuminfoAPI from '@/services/qtuminfo-api'
+import * as QtuminfoAPI from '@/services/bcsinfo-api'
 
 class Contract {
   static get(id, options = {}) {

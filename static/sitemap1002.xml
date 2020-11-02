@@ -1,0 +1,3019 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with MySitemapGenerator / order entry	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://bcschain.info/</loc>
+	<lastmod>2020-02-19T10:12:56+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block</loc>
+	<lastmod>2020-02-19T10:12:57+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/contract/tokens</loc>
+	<lastmod>2020-02-19T10:13:01+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/misc/charts</loc>
+	<lastmod>2020-02-19T10:13:01+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/misc/rich-list</loc>
+	<lastmod>2020-02-19T10:13:02+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/misc/stake-calculator</loc>
+	<lastmod>2020-02-19T10:13:03+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/misc/raw-tx</loc>
+	<lastmod>2020-02-19T10:13:04+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/address/BMuPuUT8wDRovBjiMHQ1hY5zLw9RwuH2Mi/</loc>
+	<lastmod>2020-02-19T10:13:07+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6740</loc>
+	<lastmod>2020-02-19T10:13:08+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/d63e3e5adbc4fac3e7d698497e9ab62cb5ce943ed06deea9e691ce10b1c9222e</loc>
+	<lastmod>2020-02-19T10:13:07+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6731</loc>
+	<lastmod>2020-02-19T10:13:08+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6725</loc>
+	<lastmod>2020-02-19T10:13:09+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6723</loc>
+	<lastmod>2020-02-19T10:13:09+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6715</loc>
+	<lastmod>2020-02-19T10:13:10+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6713</loc>
+	<lastmod>2020-02-19T10:13:10+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6707</loc>
+	<lastmod>2020-02-19T10:13:11+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6706</loc>
+	<lastmod>2020-02-19T10:13:11+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6698</loc>
+	<lastmod>2020-02-19T10:13:12+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6697</loc>
+	<lastmod>2020-02-19T10:13:11+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6689</loc>
+	<lastmod>2020-02-19T10:13:12+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6687</loc>
+	<lastmod>2020-02-19T10:13:12+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6681</loc>
+	<lastmod>2020-02-19T10:13:13+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6678</loc>
+	<lastmod>2020-02-19T10:13:13+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6673</loc>
+	<lastmod>2020-02-19T10:13:14+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6669</loc>
+	<lastmod>2020-02-19T10:13:14+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6663</loc>
+	<lastmod>2020-02-19T10:13:14+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6659</loc>
+	<lastmod>2020-02-19T10:13:15+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6655</loc>
+	<lastmod>2020-02-19T10:13:15+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6650</loc>
+	<lastmod>2020-02-19T10:13:16+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6647</loc>
+	<lastmod>2020-02-19T10:13:16+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6641</loc>
+	<lastmod>2020-02-19T10:13:16+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6638</loc>
+	<lastmod>2020-02-19T10:13:17+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6636</loc>
+	<lastmod>2020-02-19T10:13:17+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6635</loc>
+	<lastmod>2020-02-19T10:13:17+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6634</loc>
+	<lastmod>2020-02-19T10:13:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6633</loc>
+	<lastmod>2020-02-19T10:13:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6632</loc>
+	<lastmod>2020-02-19T10:13:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6631</loc>
+	<lastmod>2020-02-19T10:13:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6625</loc>
+	<lastmod>2020-02-19T10:13:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6623</loc>
+	<lastmod>2020-02-19T10:13:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6617</loc>
+	<lastmod>2020-02-19T10:13:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6613</loc>
+	<lastmod>2020-02-19T10:13:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6608</loc>
+	<lastmod>2020-02-19T10:13:21+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6604</loc>
+	<lastmod>2020-02-19T10:13:21+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6598</loc>
+	<lastmod>2020-02-19T10:13:22+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6595</loc>
+	<lastmod>2020-02-19T10:13:22+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6589</loc>
+	<lastmod>2020-02-19T10:13:22+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6587</loc>
+	<lastmod>2020-02-19T10:13:22+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6581</loc>
+	<lastmod>2020-02-19T10:13:23+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6578</loc>
+	<lastmod>2020-02-19T10:13:23+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6574</loc>
+	<lastmod>2020-02-19T10:13:24+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6570</loc>
+	<lastmod>2020-02-19T10:13:24+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6564</loc>
+	<lastmod>2020-02-19T10:13:24+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6561</loc>
+	<lastmod>2020-02-19T10:13:25+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6555</loc>
+	<lastmod>2020-02-19T10:13:25+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6551</loc>
+	<lastmod>2020-02-19T10:13:25+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/address/BKE7tFkyM5WESvvYMw7oaRdarPxH7JEwqn/</loc>
+	<lastmod>2020-02-19T10:13:29+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/address/B7CNPwNkzeyNBwxF5QDKjkTZ4wpzShFFjZ/</loc>
+	<lastmod>2020-02-19T10:13:28+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/b63f107a0fcb39c823c176c66bf47ab64afa3305992e0fd9ca61df13064126f3</loc>
+	<lastmod>2020-02-19T10:13:28+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/c7e55c794558ca5c747b32460335f31002e845cef3b120267cf76c70bdd3d2ac</loc>
+	<lastmod>2020-02-19T10:13:29+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/d817f16c243833170033a85ef9d0dfaec9a73fbebbc5560b1a4af03ad876bff3</loc>
+	<lastmod>2020-02-19T10:13:30+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/7ef820a080919f8131f860ff3990d49387e51ed6e387db5715eaa5485a6189c2</loc>
+	<lastmod>2020-02-19T10:13:30+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/299e669e7ccf543ab6356929fad1ed30cb08afbf111ab4bf3a62956101520a95</loc>
+	<lastmod>2020-02-19T10:13:30+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/f4d80122b409f21f71f285f6e776e913a0ef9db61383ffa1648cf0efe0421cdb</loc>
+	<lastmod>2020-02-19T10:13:31+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/6e7fd0ed32ad0192139f8e61cf208b225130ae5ac90012350ddd1e14854a817c</loc>
+	<lastmod>2020-02-19T10:13:31+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/d4f57f3de15e0b9591e2252bd5c394e50c7d1f07cb5cedd48951ab197160d479</loc>
+	<lastmod>2020-02-19T10:13:32+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/2925ea7310fb97d7066897280a428bc40083346581e0d719786cce466be422c8</loc>
+	<lastmod>2020-02-19T10:13:32+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/a36533f71d3b1819d59425ce1b2680a98be11945738a7c730363fb8e64f6e532</loc>
+	<lastmod>2020-02-19T10:13:32+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/042e583d612f895f756375643ea933f771562e936f30038bc056358a686b72bb</loc>
+	<lastmod>2020-02-19T10:13:32+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/9469f6a15d4e7e1ae27cb67eedea59d9676ac00a3eb07973e3346c86bb47ce06</loc>
+	<lastmod>2020-02-19T10:13:33+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/873de70fbd89682f873a1dbdaeb869c70805b5f3403bde3eb1f4e29c6488ac80</loc>
+	<lastmod>2020-02-19T10:13:33+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/c63df1ac95b3cee321b35dae9175ab4f740fe24d961dc6ca1e2ae65a8d44e47b</loc>
+	<lastmod>2020-02-19T10:13:34+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/1569e6a97a233a97d6a4ad772cdc44001ec7165c692d4d8df19b1b63c4360f11</loc>
+	<lastmod>2020-02-19T10:13:34+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/2b3987e05e7ce18cff00ebbf4d94e9fd64e5da27aa15ee235018dbdd97f617e0</loc>
+	<lastmod>2020-02-19T10:13:35+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/87435b4e8af69f2beb2343bbff779d04ef3d02ef53d1f8f4c8be29c3f80ddbaf</loc>
+	<lastmod>2020-02-19T10:13:34+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/e22957477ddfb9040fb87c3fe9b636598a1ad725f5bf7facf395d7ab24a4c478</loc>
+	<lastmod>2020-02-19T10:13:35+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/5ea4e9f419eaf67cb5b227746a32f7ee3fb98970873ac81f6b670018fa8e8aca</loc>
+	<lastmod>2020-02-19T10:13:35+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/552003a0bcf17aee28136d55c3f5cdae29b6e8d3efb04426bf1243147b5ff161</loc>
+	<lastmod>2020-02-19T10:13:36+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/f76c3187f9ac7456fdf7230b2a6d843db9dda378bb8c2c9cbb85dc750f81688b</loc>
+	<lastmod>2020-02-19T10:13:36+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/830427c6f8f05c4b1ea43a5cc2765e298f446bd538c2097bd8cd0be530c7d438</loc>
+	<lastmod>2020-02-19T10:13:37+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/d3808df1e91faea333db011a7227c58b0d03ee64c582a661813a323ffe917a81</loc>
+	<lastmod>2020-02-19T10:13:37+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/e441f9cddc564b482a968e55c8dc7107838784606540053579a3f16c374b2917</loc>
+	<lastmod>2020-02-19T10:13:37+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/e6d35de6283804a4addd07c61503294b762ecde66856e133a00ef9cae5debfa5</loc>
+	<lastmod>2020-02-19T10:13:37+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/674550644cea9b646724c74a295bdb99f4b8e4f6555946c5d9ab5ca3081a98ee</loc>
+	<lastmod>2020-02-19T10:13:38+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/edf6ae7b190c1ff4f0a23bce212dbb94b606c41a7ff3f7c2c189d080ddb413fc</loc>
+	<lastmod>2020-02-19T10:13:38+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/fc5c1b2a415b6feadcdac21f93019f734943a8ab4eb0c0d0ea51a648235a48d0</loc>
+	<lastmod>2020-02-19T10:13:39+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/a3becd408bd5f8cc502105ea2a7f98d1d43487ca0484b19b7d85cfe2aea045c5</loc>
+	<lastmod>2020-02-19T10:13:39+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/81565385c5d18ea5c69f857918540042d6ffd4f653c0cc1f80c31722bb4af17b</loc>
+	<lastmod>2020-02-19T10:13:39+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/331a727f5aa4f99665b7cbcf2f7174303b581162f932bcf3d7fb58c118ebdb8a</loc>
+	<lastmod>2020-02-19T10:13:40+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/cc0970a311cb6ebae33916041773848c43d6abbe877b68dcd4d725ef7e5b3218</loc>
+	<lastmod>2020-02-19T10:13:40+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/a185448bcb171517e9ddf801df6899bc8844deb4c72016f96a0dbaa168662287</loc>
+	<lastmod>2020-02-19T10:13:40+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/0d9427d69a8def160df25a06940cd9701e4d08caa43384ca109d0a7a6570783a</loc>
+	<lastmod>2020-02-19T10:13:41+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/c42da8d06bf406db8f2ddb6bbeccae1cc01283f2e23aabd27b884c060d464d27</loc>
+	<lastmod>2020-02-19T10:13:41+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/2340aba10ff7ef2c3fb965b5ae3888d1c4dc45d96ae8fd0a194593a256d7b937</loc>
+	<lastmod>2020-02-19T10:13:41+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/2c56a8ac728bf4a70d80a63f5688bad3c8c596dfb7bc93337b5d296fc56f8d55</loc>
+	<lastmod>2020-02-19T10:13:42+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/a056f28ad73573a967dfcc1de2b51388e6f65e17f7a3a0f9e747be26d972a526</loc>
+	<lastmod>2020-02-19T10:13:42+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/811a078b51135ad4259e95b07bf94bb7233fe792b93993727c17fd7f310959b5</loc>
+	<lastmod>2020-02-19T10:13:42+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/f81d97f0a23abe597a94a38a650d0ed7ce294c57d8c7bdf9b9c913c5a8da356f</loc>
+	<lastmod>2020-02-19T10:13:43+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/fd61435e4e4fd027dfb28fe6174c308076665dfdd36b5aeac75a235628af2d46</loc>
+	<lastmod>2020-02-19T10:13:43+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/7d9494971797953d2438480d7d4a5ae8c4461b0aade29c3b26b5607d2b8ad3fc</loc>
+	<lastmod>2020-02-19T10:13:43+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/13f504b57fde65ee0f37d1af85691242d4376ba1cbe7df4f6905f5ed0472fd98</loc>
+	<lastmod>2020-02-19T10:13:43+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/ac1c792f4b84e6b8d17461a7f5376d5ad6a638496a8ef62f072971cd6967019a</loc>
+	<lastmod>2020-02-19T10:13:44+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/0bf68631d35215ff9ff59e19d4cbbe96aa681dbd87c6a1449080761f486f6bfd</loc>
+	<lastmod>2020-02-19T10:13:44+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/d8e00ba65205d49f41b7cd7345c17780ae8c619c58c1f4a3adbfe4ad6ab8f998</loc>
+	<lastmod>2020-02-19T10:13:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/e33a568b1c89bdbad9d297528fcdf402458ad5fb04dd5ddc4ae559894ffc93b8</loc>
+	<lastmod>2020-02-19T10:13:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/66f56fd05981ea16c86813345385c0fdebd9869dd9eb9de15eda6367bd04095c</loc>
+	<lastmod>2020-02-19T10:13:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/address/B7CNPwNkzeyNBwxF5QDKjkTZ4wpzShFFjZ/balance</loc>
+	<lastmod>2020-02-19T10:13:48+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/address/BKE7tFkyM5WESvvYMw7oaRdarPxH7JEwqn/balance</loc>
+	<lastmod>2020-02-19T10:13:46+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/e90876b56b878eea9eceabd69b4b2c5cc8cc68deba98ec5aef62c7dc1ae2194a</loc>
+	<lastmod>2020-02-19T10:13:47+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/71d78d73f90a08ce9c193edf48fb45808bb34b40c349de87847c366ff585cd0b</loc>
+	<lastmod>2020-02-19T10:13:47+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/fe5a5605d60d2d9c5159ff7f5b380f05dde81b5208e2c4e835f2e6573bff8cfa</loc>
+	<lastmod>2020-02-19T10:13:48+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/5afd018e9a025f8a7a6c20ffaebbda858e2184dc44e10fa92e52f39c33914ca7</loc>
+	<lastmod>2020-02-19T10:13:49+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/19e03b8b68dc3ccf9d3319b607807276d37d357ed9084dca40a2ea1c902d0435</loc>
+	<lastmod>2020-02-19T10:13:49+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/db5ec384529d7b87cde1501dfc8a89eb1ed5e5e97e5f615a4b65f0dc6b931a8f</loc>
+	<lastmod>2020-02-19T10:13:49+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/f59f0ee355a093c1ad9a9edfe84aa5591b18f044e00e5234aa1bd10c3810aa76</loc>
+	<lastmod>2020-02-19T10:13:50+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/6b10c1580477f59e34f68ccc2d618c62c12187d01da788c60e83fbd0ec16e1b2</loc>
+	<lastmod>2020-02-19T10:13:50+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/cf48b7451b948f7aff398d04f4015842a0b3f112ebdda3c03fe935e3edda9e21</loc>
+	<lastmod>2020-02-19T10:13:50+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/a4532b470cdd1cc19dc19883b766d1a3055e367c5e8d79192d5624a3c8edbc4f</loc>
+	<lastmod>2020-02-19T10:13:51+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/0d8729bc1d0a44af2a52e70bbf2ec46615b26311edd27b90d87ba53c90004860</loc>
+	<lastmod>2020-02-19T10:13:51+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/6c88aed348b00f2160cf315a83d7aff1c70ee14a3e9dca7a1ae328b4cf37cb59</loc>
+	<lastmod>2020-02-19T10:13:51+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/c40a1675fb93034d82e88849fcf6cebf43bf87a4333151a2667a23c75f1117ba</loc>
+	<lastmod>2020-02-19T10:13:52+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/d768831d49724af853ea1caa9b19be7badb0ffe2730dd6f731165480fa4906ac</loc>
+	<lastmod>2020-02-19T10:13:52+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/72b817bf7cbccfd87ca4c16372a70b89918547afcd03c68fae59bbe6965fa7c5</loc>
+	<lastmod>2020-02-19T10:13:53+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/f2c2ab6f170c300d0cf4ff58fd317532f67cca4debb6911fa41d0a2377f3eaed</loc>
+	<lastmod>2020-02-19T10:13:55+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/1ed02301072979d56fa18d2d8887872a25f986c9bae4c062cb35f5332bb92029</loc>
+	<lastmod>2020-02-19T10:13:53+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/4bf1357148048386481f14dcf6005943a0ce43807db2a67693a1b852618fd1a4</loc>
+	<lastmod>2020-02-19T10:13:54+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/9fdd08f51ef1d6f2819ffe9f3e86136ec54922be57a59e0693f803123e0de38b</loc>
+	<lastmod>2020-02-19T10:13:55+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/9b2dab88d10bdf6c73ccc20a7ddb0ffec2998dfc89567b30f16bea6930d4efd2</loc>
+	<lastmod>2020-02-19T10:13:55+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/a054aedcc9b7cb9be6f3be22ea85c6256aaeb822efd526213f9a68ca7c268967</loc>
+	<lastmod>2020-02-19T10:13:56+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/51027507b8df10e1324bea6801de13bb36ae8c701511519b3ecfb392645b3479</loc>
+	<lastmod>2020-02-19T10:13:56+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/5791f7c350e0eb6b9a45fb93094c45ab931af37c5f1c873f786c3947eaae1d7a</loc>
+	<lastmod>2020-02-19T10:13:56+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/bc560491f8245000ef5abe595812a87acd96286982857174c34301a3c0ac508e</loc>
+	<lastmod>2020-02-19T10:13:57+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/0f2759f89a7e285c1c94e8a0f9cbb0aeaacb750ece135cbfdfce034a61b52a85</loc>
+	<lastmod>2020-02-19T10:13:57+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/2204e8ec4f8ea737a27a8ad76ccbf96ca435e08fe78688a387f56660bc7546b5</loc>
+	<lastmod>2020-02-19T10:13:57+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/80189f273adad6aab39349019efc9f20f35855d20b50780fe94bc24641bef22f</loc>
+	<lastmod>2020-02-19T10:13:58+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/c408472a83e3ad7d1ee6dee7ae16accfe5db5ca0fb56fc4b2958428d950c5bf4</loc>
+	<lastmod>2020-02-19T10:13:58+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/e4292573ac3ceafe459a7dc84809938aa45d670479815ab7c8e905da46719a18</loc>
+	<lastmod>2020-02-19T10:13:58+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/c052a24cf67fc42e6187be169ab8b0e4542303d652e7d310a09cf01077f080d3</loc>
+	<lastmod>2020-02-19T10:13:59+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/2cdbe534665b0333639c37ae2b4eab38f645c08bf426e9c2124ff96c187e63f7</loc>
+	<lastmod>2020-02-19T10:13:59+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/4ec84aec7f4d44cc2c4a7436efe1c033d426bcc260ae47403f3e2e094a3f3ebf</loc>
+	<lastmod>2020-02-19T10:13:59+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/c627772aa59430fe3534b2f44ba659fc991fe529317b97b199ad9ab88f0ce713</loc>
+	<lastmod>2020-02-19T10:14:00+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/b7d81c858df6e905b2f0e8213be62f002b1c2c318c2fa50fb3c74e966a0da067</loc>
+	<lastmod>2020-02-19T10:14:00+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/8566c579a4f048e3a829989a940c46f157f15779e613d3e760c2c92d535f3aff</loc>
+	<lastmod>2020-02-19T10:14:00+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/81db761287cc6499a423b85b9e762a654704ea049dcd988cbc59d808fa7ba92f</loc>
+	<lastmod>2020-02-19T10:14:01+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/7c56c32fa3b44d77ee56cd9973b889c0928eed299ff48e8572e03aa1feef67bf</loc>
+	<lastmod>2020-02-19T10:14:01+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/6c07d78d37611b1675e2ae25ad57d889e66dfad1ced63ae0bd1deed365314cd0</loc>
+	<lastmod>2020-02-19T10:14:01+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/c28887137bcb97c6965e0168e5efc1f15e925a1541cdc5d17f6e82ba20718dab</loc>
+	<lastmod>2020-02-19T10:14:02+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/0788b8911307b6f389fcce103a40a397c025cc9c1a930cf76b5ba478b513d79c</loc>
+	<lastmod>2020-02-19T10:14:02+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/1d2d98330c9178424d600d010aa19bc8ebc8cf0feed8ae84a9b1bf99bbe1eeb5</loc>
+	<lastmod>2020-02-19T10:14:02+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/b6d716c70ba7426bd4bce3535cc1dac8a3a8cf02ab503ca1987037c2106b354b</loc>
+	<lastmod>2020-02-19T10:14:03+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/980a2e479b9c16fd2ecce8b38ca6f14d399f151220ef73ddca87de9059eaf168</loc>
+	<lastmod>2020-02-19T10:14:03+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/93486cc114a78ad431c49bf347c17c5cc9cb130c8aacae5398e185d830bff4f8</loc>
+	<lastmod>2020-02-19T10:14:03+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/07921cbacd878141596989f973736338f8d0eb78d98b55571f074d457a796f2d</loc>
+	<lastmod>2020-02-19T10:14:04+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/172042edad198fdf60f75b68c08deac241f76c833bd64d9d8215b41997e5254c</loc>
+	<lastmod>2020-02-19T10:14:04+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/93531a02faf303dd35fa27c6c2a4da2a788eaee57f61f1d96f4289703e16b2b5</loc>
+	<lastmod>2020-02-19T10:14:04+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/62c85a0541d94ef1b0cb35488fcefeb22589a3bdd611816722cc0febe6e6383b</loc>
+	<lastmod>2020-02-19T10:14:04+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/7d19a199ecd6d8824d98100ef37081fe6a6f54942204f5eb38205d26a5aa5946</loc>
+	<lastmod>2020-02-19T10:14:05+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/156374a14252f8b40bb1dc9cfa3b3ac3d72ce2e978cd98e162e685dfbaa148cf</loc>
+	<lastmod>2020-02-19T10:14:05+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/62816f40ed651940f005166188f124a28e24730f2212bfe44b2e35967433c048</loc>
+	<lastmod>2020-02-19T10:14:06+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/0def255f0bfe1c4c26c0d11637fdc5ffd694ddaa074118a6532b31a2d1148a36</loc>
+	<lastmod>2020-02-19T10:14:06+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/afa077122f16d50fbc50a50eced54b36d62c840eafab4b4946d99c8dd886fc75</loc>
+	<lastmod>2020-02-19T10:14:06+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/189b5d05eb57e908e71e3406e356b60d909c689e902cab18ac863eb2267d0153</loc>
+	<lastmod>2020-02-19T10:14:06+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/c5921e1c5291fa2c543f17a134c5c0b9636f34e6f11d977d05c2f58aae05c909</loc>
+	<lastmod>2020-02-19T10:14:07+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/a94054f0dfe7e91edfaf47d48447af59a2a2637c7b28ad44f8e69a31356b2737</loc>
+	<lastmod>2020-02-19T10:14:07+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/e5cec7a75dc191014257d26c73b6501fe0ed0cea9a47114adf4cc8cd5babe3b5</loc>
+	<lastmod>2020-02-19T10:14:08+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/add68b37f00ae1545f2bd96811def03e2382cc485a0b7536d0d278ecc47b6289</loc>
+	<lastmod>2020-02-19T10:14:08+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/e1ce5f84994ecd8d1761e43e8679af5139b0cf8e486ae9ce5a1e6b1c97e16443</loc>
+	<lastmod>2020-02-19T10:14:08+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/10823b3ce6a1ff1ce3f8c7bf0c6cbb98cfb27eb6b474293560ce843a71ed03ad</loc>
+	<lastmod>2020-02-19T10:14:08+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/f56b2cd2deee026785d214f97c0f1d8521a7bfad4c7d159be1ea490b5c2aabf5</loc>
+	<lastmod>2020-02-19T10:14:09+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/cd41092b947345a9ac2c284f75129ab158412ae2a05c9664398d9508b7f854ff</loc>
+	<lastmod>2020-02-19T10:14:09+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/1ef0d0b039eceead7cfd2b3ba0870ea5e700b02d5bf3f31b1d02315ed5ac3c64</loc>
+	<lastmod>2020-02-19T10:14:10+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/95009944448a967082f3ea3862e66d952d2be53014f619d75f05869b6419b9cf</loc>
+	<lastmod>2020-02-19T10:14:10+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/452041d523c080c5318721c4737632f9de2d9f73c9ecbcfd6f6d90c0a6fca38b</loc>
+	<lastmod>2020-02-19T10:14:10+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/b80e8042b318e8d9d295e4303b9976435e0857f3702c49ebf3e1c6d95d211417</loc>
+	<lastmod>2020-02-19T10:14:10+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/5e8d7317cb4ea6cbb5308d14819f40ad1d40bdea2fd641bb7613c9eccac0f709</loc>
+	<lastmod>2020-02-19T10:14:11+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/920369f497e677e45d3049b6aff5bebd7495eeae808acd082569c6a2a5a499e2</loc>
+	<lastmod>2020-02-19T10:14:11+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/45e3d13390a5c7d76c9a32a93510e2bff02aaa4de5e6bd0cf17768699e8fb581</loc>
+	<lastmod>2020-02-19T10:14:12+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/b01d8c06885dcb67788102881d4c8084500ad6f38dac16e0871408a6349e71d1</loc>
+	<lastmod>2020-02-19T10:14:12+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/17c9d064d7322185b70729f9e01c4d112cbf9fc4592446d500ee474c8624c9a3</loc>
+	<lastmod>2020-02-19T10:14:12+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/3ce4f731c8f8ee717e751d15ff40ed66a08ee3073a8eb4a4bc3f1547e04e727e</loc>
+	<lastmod>2020-02-19T10:14:12+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/708d4dbf3f9829ede04d4a37e64ea8ba582e7b40c8bfe47d0dbd301043f1d904</loc>
+	<lastmod>2020-02-19T10:14:13+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/e808538f145fcec6e5b6a43461928c877cf62ec0d1a5563287125ca1c448d570</loc>
+	<lastmod>2020-02-19T10:14:13+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/46ab3bbb2acf8aa43b804fd374e66fa83506434e588c533bc74c4bd189cdace4</loc>
+	<lastmod>2020-02-19T10:14:14+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/a35553fdf0e4aa860738d8d6da8dd7d6d6f2b427980d9ae2f4c8a6bad6e1215f</loc>
+	<lastmod>2020-02-19T10:14:14+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/f06b1c0d60c77793cfed6d47c716ce9fc3754e3d8364194bae08ef329a4d499c</loc>
+	<lastmod>2020-02-19T10:14:14+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/a1ce579feed92a2b8c1b8c01dbd8d4583b10a9a48fa61671ed8d911910b4aaff</loc>
+	<lastmod>2020-02-19T10:14:14+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/b6decc8fb5e56d1f3dc3a198ac2b24f711bd53ee998603af27e3c9b3bb7d3c2b</loc>
+	<lastmod>2020-02-19T10:14:15+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/6140030c1ffdedb9a1373f01167f0532ad8ecbab5d04284bc0325cadbbf3d348</loc>
+	<lastmod>2020-02-19T10:14:15+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/d858de20b73e1616f35a01041406afd83a45e0b6c965c452bcdcaca0d9beac41</loc>
+	<lastmod>2020-02-19T10:14:16+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/e99866fde4e0655563fbc89ea793859934003618284de0dda075fe7d00eae507</loc>
+	<lastmod>2020-02-19T10:14:16+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/92fb7d6894065891e1b9edb7d0008253bf186ebf1b07b7397ff5d004cfeccdb2</loc>
+	<lastmod>2020-02-19T10:14:16+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/7294d7973420994bd369c8045e6bc2faeb2a8e082078472a50d5395e08da780d</loc>
+	<lastmod>2020-02-19T10:14:16+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/2ae28466c78ce809417c045c44907b61307e14f263ddb5ac9c12428adcfda274</loc>
+	<lastmod>2020-02-19T10:14:17+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/9d16cc42d2da78089dbd0a1a810b9b77bd2cc5324c122744909bf086b495176f</loc>
+	<lastmod>2020-02-19T10:14:17+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/3260118ad5dd5fc62a1a3c71cfabcf0444862c19231207243a2af1476faf7f2b</loc>
+	<lastmod>2020-02-19T10:14:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/ec3747b7d9a20b6be02725618d0d4e2239625cb486a5280d1c8ea62a03efb918</loc>
+	<lastmod>2020-02-19T10:14:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/bdddd6a44cd3c2d5abf984f630c2fc0f98da423d617aeb57523397ee6e611cde</loc>
+	<lastmod>2020-02-19T10:14:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/8f8a85dee1724fc558e0d55b45919fdbdbddda4dd2e4a5670d0deedda06e30e2</loc>
+	<lastmod>2020-02-19T10:14:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/4233baf38c87b6485bd0cd4e172b0155c86d4c2bb5d179a3f8d243713478f74b</loc>
+	<lastmod>2020-02-19T10:14:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/e935ab84d1c6629d2bba6de5ee52eae4076aaa32d6074014a9625e12d4fb288a</loc>
+	<lastmod>2020-02-19T10:14:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/4b95e4fe473d9b7c037a40e65e185d84650fe53e65d2f9bec5f326c79514455c</loc>
+	<lastmod>2020-02-19T10:14:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/470cdcaf0ef4e01e748cf8d3a3b8ce2ea23bca317282c885f29f92c594b7de7d</loc>
+	<lastmod>2020-02-19T10:14:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/045d8c385657c85aba894f452e34a833116a55aeb326fa7aae388e8946dd607c</loc>
+	<lastmod>2020-02-19T10:14:21+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/837b293cc6ed525e2a62451975f36d9faf18b3361a28697bd8237d22673f6965</loc>
+	<lastmod>2020-02-19T10:14:22+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/26968fdf245736c587733a9cb31f6a2d69d412037e2b1fd69e52a47972fe168a</loc>
+	<lastmod>2020-02-19T10:14:22+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/e7bd73c05618ca5b79f755ac45e22298fb9c8b3ba578d6f4d028fc6c669d765f</loc>
+	<lastmod>2020-02-19T10:14:23+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/76ff92696f5d377b017deb045523b1cecda1e86c515d6135e5859db92201f9f5</loc>
+	<lastmod>2020-02-19T10:14:24+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/a0f82123c0d52290271161e8568535ce440fce35c9d03430a4eaed37f3041c18</loc>
+	<lastmod>2020-02-19T10:14:24+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/fc9d136913d91c3523a867c93a4ae7b10a61bc7d2e72663f77eb86f126c93ce3</loc>
+	<lastmod>2020-02-19T10:14:25+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/fdc13aa2f8ba60e72110d2d6ab7d61e3424abdc885846bde48fef3df8bd0acf8</loc>
+	<lastmod>2020-02-19T10:14:25+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/565f2e9727c1222115cadd3b42046840521b8fee04fc134677a14e5096e9e5a2</loc>
+	<lastmod>2020-02-19T10:14:26+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/10dd086c96f98415a21c7ebef7fe692ca2378dfd3704c3f394863cc3ae41c5ad</loc>
+	<lastmod>2020-02-19T10:14:27+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/65d7059f7840cf46b3a7a442ea291a1e4f8ea24c073c52b902c6393129e00468</loc>
+	<lastmod>2020-02-19T10:14:28+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/4d4a420685247e7694616c3750a003f986bb243aed5d99c32d25730eeae56fbf</loc>
+	<lastmod>2020-02-19T10:14:28+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/15f2fb2a2a61aa78ab5950dda4ce5cad2148d8eb744ab3019560825daee1b4da</loc>
+	<lastmod>2020-02-19T10:14:29+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/407f7f26af58c3efcbd2719a24d534713cf4248dca402a9e286567f427eaa6dc</loc>
+	<lastmod>2020-02-19T10:14:30+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/7bd1d284165c5bc8a4717fafe99a45985ede7b98d120b6f582c870564f70b6ae</loc>
+	<lastmod>2020-02-19T10:14:30+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/8c3f962daf04d8dc9e2366cf049398b9d177fe536f6e1e94312646cfa0729e81</loc>
+	<lastmod>2020-02-19T10:14:31+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/83409553e0db4b476aa40d81e214363ea30a9bdb33b51fab58c009fed5b05822</loc>
+	<lastmod>2020-02-19T10:14:31+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/f5bc1df73d81e8ee9e237129fa776cef3654237974d41f9ab358426cb669d629</loc>
+	<lastmod>2020-02-19T10:14:32+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/aa842925d8341b18cc259b064bca9640117fc83e7382d5b6c3239df072858e0a</loc>
+	<lastmod>2020-02-19T10:14:35+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/2509546a42daea7c657609315f70bf0de14ea6d98ab2b90f11345d0d5c19eaa3</loc>
+	<lastmod>2020-02-19T10:14:36+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/53a35c4b2536b28fcd64901375480f10f38c49e8626168c2b2f59bbb57524950</loc>
+	<lastmod>2020-02-19T10:14:36+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/4006</loc>
+	<lastmod>2020-02-19T10:14:37+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/3308</loc>
+	<lastmod>2020-02-19T10:14:38+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/030b2bec2fe22964c465fce25217259640c589345062d1248fce2b006331f069</loc>
+	<lastmod>2020-02-19T10:14:39+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/4874</loc>
+	<lastmod>2020-02-19T10:14:40+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/691</loc>
+	<lastmod>2020-02-19T10:14:40+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/39bcad72a09b424e34f98f11008f26443876d59560819535849d62448c26e20e</loc>
+	<lastmod>2020-02-19T10:14:41+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/627</loc>
+	<lastmod>2020-02-19T10:14:42+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/6819529348bdefa50f88c508f98fca8a3185fdaa0f230975599f649f70168509</loc>
+	<lastmod>2020-02-19T10:14:42+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/830</loc>
+	<lastmod>2020-02-19T10:14:43+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/2494eb73f055f2c1b9ad47394e56b46fa0a88c7a25fb53f31d94a574271df80e</loc>
+	<lastmod>2020-02-19T10:14:43+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/6d6fe8743ea9e8c764536e49a9ad15db68eb7c6b38f04e13c554f42184bea26c</loc>
+	<lastmod>2020-02-19T10:14:44+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/687</loc>
+	<lastmod>2020-02-19T10:14:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/3919</loc>
+	<lastmod>2020-02-19T10:14:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/659</loc>
+	<lastmod>2020-02-19T10:14:46+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/912</loc>
+	<lastmod>2020-02-19T10:14:47+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/1054</loc>
+	<lastmod>2020-02-19T10:14:47+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/da0c63a6e6b45b21ed3e0837f1acb9e1192da1f15ce6dfe1990f622431097479</loc>
+	<lastmod>2020-02-19T10:14:48+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/756</loc>
+	<lastmod>2020-02-19T10:14:49+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/3799</loc>
+	<lastmod>2020-02-19T10:14:49+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/744</loc>
+	<lastmod>2020-02-19T10:14:50+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/837</loc>
+	<lastmod>2020-02-19T10:14:51+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/3569</loc>
+	<lastmod>2020-02-19T10:14:51+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/107f7830f1e08c80979b4770f5a38c1c93cfdcb06b22b0a7cf9fa9d1f4e3ad17</loc>
+	<lastmod>2020-02-19T10:14:52+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/4873</loc>
+	<lastmod>2020-02-19T10:14:53+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/831</loc>
+	<lastmod>2020-02-19T10:14:54+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/913</loc>
+	<lastmod>2020-02-19T10:14:54+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/745</loc>
+	<lastmod>2020-02-19T10:14:55+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/f8889dc731d3ea6c8407ad7f37bf3cc5f98a5c934b5f83b9e49bcb73249a9527</loc>
+	<lastmod>2020-02-19T10:14:56+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/3917</loc>
+	<lastmod>2020-02-19T10:14:56+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/a327e1ac804e3c6b864ebcdd198ad8ea6cd01701d0583a64b34d66ad61b0ca78</loc>
+	<lastmod>2020-02-19T10:14:58+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/b64b530f66dbb24431464f815b76cfadc999bfab1214f2d7fb73b518c479bdfb</loc>
+	<lastmod>2020-02-19T10:14:57+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/5802</loc>
+	<lastmod>2020-02-19T10:14:58+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/5801</loc>
+	<lastmod>2020-02-19T10:14:59+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/5803</loc>
+	<lastmod>2020-02-19T10:14:59+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/fd2798bf4ba622dd641e7f8b916e29fb2ca505c83f47c03f661333e683aa9b0b</loc>
+	<lastmod>2020-02-19T10:14:59+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/f8e8384a93f97f6c42d247378c60c227cbc19778feca76befc9d3cc5a0cca214</loc>
+	<lastmod>2020-02-19T10:14:59+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/2e8540e5a1e337b12a230ddd33b815157efc28b0a7ee41ff551ddf0fd0ac1fe8</loc>
+	<lastmod>2020-02-19T10:14:59+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/2d4bfb71033f4af8a59b3540913727afa01dda7bd760158c0e008a775364cb9b</loc>
+	<lastmod>2020-02-19T10:15:00+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/820447266613c6fea3347b9d3ec550feeea6456e62f01249b77b28e6d6e8fa22</loc>
+	<lastmod>2020-02-19T10:15:00+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/5804</loc>
+	<lastmod>2020-02-19T10:15:00+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/4364cb43ec0d1339a725d461e80d1ad5985f81488bd9e080aa03cb7b142e2995</loc>
+	<lastmod>2020-02-19T10:15:00+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/ccd2797bd4685b8d4db1418644a441188aa2ba282512717015b9de422d545595</loc>
+	<lastmod>2020-02-19T10:15:00+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/fac5254c9b2b887dcb02998ffda71c6d9474186d07e5dd4742bfdb15c93335fa</loc>
+	<lastmod>2020-02-19T10:15:01+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/4576</loc>
+	<lastmod>2020-02-19T10:15:01+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/de860d5141c145696356ac89e1911be06b6ef3eb5f37917113fa55f60630e022</loc>
+	<lastmod>2020-02-19T10:15:01+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/c22fdc9e2052fb35914940cd56296f6c2d5539b12a7705380a5812b0338cfc1b</loc>
+	<lastmod>2020-02-19T10:15:01+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6340</loc>
+	<lastmod>2020-02-19T10:15:01+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/5805</loc>
+	<lastmod>2020-02-19T10:15:02+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/e3878bf4f54ba4e1feb5a6a9dd61777e6ac228d78f14ec78cf7343cbbc8d4b48</loc>
+	<lastmod>2020-02-19T10:15:02+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/651729607b1f9f8b2c5654fb8a625aba369f07896ecbf222f1a89ebdb8f93b58</loc>
+	<lastmod>2020-02-19T10:15:02+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/3387</loc>
+	<lastmod>2020-02-19T10:15:05+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/be5a89688a28d3523928b8f0d25ac694007866df11ecda7451680c5118041150</loc>
+	<lastmod>2020-02-19T10:15:02+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/8eb2106fe9bc0692f72643d5b631d888eb77b3cbcfa9db0fe64a4cad9406d1c6</loc>
+	<lastmod>2020-02-19T10:15:02+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/4575</loc>
+	<lastmod>2020-02-19T10:15:03+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/4577</loc>
+	<lastmod>2020-02-19T10:15:03+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/1644</loc>
+	<lastmod>2020-02-19T10:15:03+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/5154</loc>
+	<lastmod>2020-02-19T10:15:03+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6339</loc>
+	<lastmod>2020-02-19T10:15:03+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6341</loc>
+	<lastmod>2020-02-19T10:15:04+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/5806</loc>
+	<lastmod>2020-02-19T10:15:04+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/4894165beec4ad2e9c9698bbfc5e277ed6e212a8fc1366f80890d2704713e427</loc>
+	<lastmod>2020-02-19T10:15:04+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/2f08dae85ad2612be8b2cd48f9ad79151484c91e2cfe376cbb8875c65634b9c8</loc>
+	<lastmod>2020-02-19T10:15:04+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/1781</loc>
+	<lastmod>2020-02-19T10:15:04+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/4978</loc>
+	<lastmod>2020-02-19T10:15:05+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/147f050f253ed4496053c332c6976c388395867ffc0f0d56daaf9214b35f7220</loc>
+	<lastmod>2020-02-19T10:15:05+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/4574</loc>
+	<lastmod>2020-02-19T10:15:05+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/f3d7fb3fe8d87f81cfe8b9cf9223bf9d4a04cb6b5a796239ca51afe9441a7876</loc>
+	<lastmod>2020-02-19T10:15:05+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/10b0c54f9e8de0a0666a1f4553b1d50bdf00afff27a51852ce2b6460bf259c45</loc>
+	<lastmod>2020-02-19T10:15:06+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/8a5f846f16e65b04d29d9525a7af82333c59742d8beead1a29b6942d3b2dcb8f</loc>
+	<lastmod>2020-02-19T10:15:05+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/a93e075900731b985d368e34098efafa201373ad57f6f50b0433cc08ca2555c5</loc>
+	<lastmod>2020-02-19T10:15:06+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/4578</loc>
+	<lastmod>2020-02-19T10:15:06+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/65368a788cee7579fdcbaac4d46b13e6eda419b5270f2040ec2c0a4b28047a43</loc>
+	<lastmod>2020-02-19T10:15:07+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/a52bf034ac8b8e63659693e114dd68861ded1901a7dcbddacce2703d0fcdb231</loc>
+	<lastmod>2020-02-19T10:15:06+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/1e6bfda514fc3910273848c3dc2900ed7714a9b289f5c2eceef1bdf05621b09f</loc>
+	<lastmod>2020-02-19T10:15:06+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/3e79ad58acb99e7c938344a7c32b224a891291ba630d2e562ece913158c020dc</loc>
+	<lastmod>2020-02-19T10:15:06+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/1643</loc>
+	<lastmod>2020-02-19T10:15:07+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/5153</loc>
+	<lastmod>2020-02-19T10:15:07+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/5155</loc>
+	<lastmod>2020-02-19T10:15:07+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6338</loc>
+	<lastmod>2020-02-19T10:15:07+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/604359da0846235d2055c2d0797e06ab653e1666adb07d527191da5fc9f7b938</loc>
+	<lastmod>2020-02-19T10:15:07+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/9c3a5df4fb349542771f1fc7bcb9ce336500c1f278d454be740fbc3cc01e0aef</loc>
+	<lastmod>2020-02-19T10:15:07+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6342</loc>
+	<lastmod>2020-02-19T10:15:08+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/807c78ece2ab40d13dc956693f0bea06910246518fcb77f423a32a56286ba1a6</loc>
+	<lastmod>2020-02-19T10:15:08+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/864354eb42a55df84fa0a484ec64816c9d9874e4c92995dc3613ef7e8a2ba67d</loc>
+	<lastmod>2020-02-19T10:15:08+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/47a9398ddefed10fcbc207979180d4355085881aeb03ba44dd89cc20d8cdb205</loc>
+	<lastmod>2020-02-19T10:15:08+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/aa452ae0b64b6294681d8b707f766df10cc0af40f2b5e4d62b7fbcb3e222960c</loc>
+	<lastmod>2020-02-19T10:15:09+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/b36ac5de2e14c0446efb5e59be1819890b01166e4f8466f65de68d39f849e58b</loc>
+	<lastmod>2020-02-19T10:15:08+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/8f20d72955d93ccd7ed121e7b56640c2ae5f2f18baf8fbd23817801b2ad34b5c</loc>
+	<lastmod>2020-02-19T10:15:08+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/1782</loc>
+	<lastmod>2020-02-19T10:15:09+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/4977</loc>
+	<lastmod>2020-02-19T10:15:09+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/4979</loc>
+	<lastmod>2020-02-19T10:15:09+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/82ccaf403b3fcc3b74dd208ee5f82b8c8192b0ae16f759f30850231c817e9d44</loc>
+	<lastmod>2020-02-19T10:15:09+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/1190680f2aeaaf73c8678bd5fb7c9cbd09f196498ae8d0209fe3ada78ffdfe7b</loc>
+	<lastmod>2020-02-19T10:15:09+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/37c6ffab2e42fcecc01c84d0abb7ad6a1b0de8896d288f501ce3a9841037524c</loc>
+	<lastmod>2020-02-19T10:15:09+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/d32bbe4e4d01448eaff429474d5b754bb8eba75d7a0647039f22a241af7e85d8</loc>
+	<lastmod>2020-02-19T10:15:10+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/c2be9ef4aecc69c9a8647a38fca7e0aa4ad65bdfc0b4962b2c381f3c90020bdf</loc>
+	<lastmod>2020-02-19T10:15:10+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/3386</loc>
+	<lastmod>2020-02-19T10:15:10+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/71d97657b36b3960545d58a795137fb8b6ba9ae7a17eb0805c4993919f559f81</loc>
+	<lastmod>2020-02-19T10:15:10+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/1423</loc>
+	<lastmod>2020-02-19T10:15:10+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/5648</loc>
+	<lastmod>2020-02-19T10:15:11+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/4579</loc>
+	<lastmod>2020-02-19T10:15:10+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/8b5609eb6f31879db8a06e1b04220677750747a38effad011e715c9616c7bed6</loc>
+	<lastmod>2020-02-19T10:15:10+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/d6da20a7895da0cd2fe996922509a6535f0955186abdf876ba1d7fc48081c989</loc>
+	<lastmod>2020-02-19T10:15:11+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/5918</loc>
+	<lastmod>2020-02-19T10:15:11+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/5224</loc>
+	<lastmod>2020-02-19T10:15:11+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/1642</loc>
+	<lastmod>2020-02-19T10:15:11+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/c14ff374a289ccffb5eb08c174c87ec016c179eff090f955ddfd69f4170dd3d7</loc>
+	<lastmod>2020-02-19T10:15:11+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/babf2a0e3bf55418b6066f16873686c854b1fd6c85e4f4b531868f3c098bc686</loc>
+	<lastmod>2020-02-19T10:15:11+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/d1c20be8e555e94b7bc989435b90c69db1fad3432d438384595d5c321497b1e9</loc>
+	<lastmod>2020-02-19T10:15:12+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/f21507c26c7c8dc7f652ce103462688e6b110ae15ae63e2a79b852f5de1f6e59</loc>
+	<lastmod>2020-02-19T10:15:12+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/5d932b935b53cd79107cc9396cc8894c1876c5a107ff36fc83f531d25293f9c8</loc>
+	<lastmod>2020-02-19T10:15:12+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6337</loc>
+	<lastmod>2020-02-19T10:15:12+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/07f73496a83805b903099e3e12b6f7ca52837fb176318c33fef18bf97a9c9480</loc>
+	<lastmod>2020-02-19T10:15:12+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/c6a5346612030d66d079a9d6b39a69b7514ba87738dc97afda8af6d609b42aab</loc>
+	<lastmod>2020-02-19T10:15:13+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/5152</loc>
+	<lastmod>2020-02-19T10:15:12+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/b623bf8fc4d1b4e261dcacc1e288efb9452594f85e4efaedc6e1bf58870fbc1e</loc>
+	<lastmod>2020-02-19T10:15:13+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/c7fcf35112be0b73cd42be19619defaa9408c08ae09e10f7754eb3cf826ae118</loc>
+	<lastmod>2020-02-19T10:15:13+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/4867</loc>
+	<lastmod>2020-02-19T10:15:13+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/a2e6c261a46804d5d8dac4bf4293fa43c0240247f89d64cda135b47556a2eab3</loc>
+	<lastmod>2020-02-19T10:15:13+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/d216119305d7850829dffd0267d80fbe0d36372ffc12b6f85e33227cdd4f51fb</loc>
+	<lastmod>2020-02-19T10:15:13+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/bb0a244ae350926bc6ba920e86523b52cfb954e1e75ad0acde6d3902ff866317</loc>
+	<lastmod>2020-02-19T10:15:13+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/58aeaecf78c9ad6c2b836bdeb41f6dc0d3e6629b69012bf285ace3925dc45609</loc>
+	<lastmod>2020-02-19T10:15:13+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/2259</loc>
+	<lastmod>2020-02-19T10:15:14+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/9fafbe57b3aebc8814a9f8de375662f0774c01c88686723ae3009d7469563a0f</loc>
+	<lastmod>2020-02-19T10:15:14+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/1a329a6890b18cdea46563387734a55c1b8c5f98b836677702e83042eb22a78b</loc>
+	<lastmod>2020-02-19T10:15:14+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/1783</loc>
+	<lastmod>2020-02-19T10:15:14+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/95c9fa2d39ffae57fa9f867b4b1e59749b411d0db546ba9230bd02747a0f9ef4</loc>
+	<lastmod>2020-02-19T10:15:14+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/4976</loc>
+	<lastmod>2020-02-19T10:15:15+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/a17f8369dde5c38c872f807a39068df3c88bfe8ed545289fbac3f7d11eefa12d</loc>
+	<lastmod>2020-02-19T10:15:14+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/04829293169a54d39fa2a6f7c79ca5f7ccab379a0362526d216e6a0a8d097332</loc>
+	<lastmod>2020-02-19T10:15:15+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/7f7001a49d487169bc809877a238e8e3c7a16e4062add8e7d14b28c9d90bf4ff</loc>
+	<lastmod>2020-02-19T10:15:15+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/a3a0b200a22684890cb9e99d0f0508926862e7903effa730a85d94932d3b8026</loc>
+	<lastmod>2020-02-19T10:15:15+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/4980</loc>
+	<lastmod>2020-02-19T10:15:16+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/2fae02009644bf3b546524b5db3f8d21b1a80b4e49b6a1e1bcdcd75f6e794dc1</loc>
+	<lastmod>2020-02-19T10:15:15+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/834228dd2dc0557f427dee2b1ffd2c0829cb750c99822490d13af30e420db785</loc>
+	<lastmod>2020-02-19T10:15:15+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6506</loc>
+	<lastmod>2020-02-19T10:15:15+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/3385</loc>
+	<lastmod>2020-02-19T10:15:16+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/56308eb26752e393fba775cef426867df379bb02228d9ad50fdb6c78005b23ba</loc>
+	<lastmod>2020-02-19T10:15:16+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/3e2bebd1de8a363c853da765f42b0692bedef283fc5eeeb1d681ffbf7d2b04c8</loc>
+	<lastmod>2020-02-19T10:15:16+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/93a6595a11ba2474597286abc157262d653cb13dbeae062b75cae913b3e89a7e</loc>
+	<lastmod>2020-02-19T10:15:16+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/3611</loc>
+	<lastmod>2020-02-19T10:15:16+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/368cf4aa13d72566f9ff90c3970e21b53836f14b613645e8ad3c540d9ea9d461</loc>
+	<lastmod>2020-02-19T10:15:17+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/1422</loc>
+	<lastmod>2020-02-19T10:15:17+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/1424</loc>
+	<lastmod>2020-02-19T10:15:17+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/470d72d7960f10223404792d0799caad0bff02506d25ff8b4e1c7f9b9187725d</loc>
+	<lastmod>2020-02-19T10:15:17+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/8e3031b66ed4ea153a6be2c5e8fa30c89b985ae78b592a442b5021564efa8e64</loc>
+	<lastmod>2020-02-19T10:15:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/602ac59ff0f0c14dfcf2362e056e8ab56d576b2053face30c4d5bfd2c8f6743b</loc>
+	<lastmod>2020-02-19T10:15:17+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/3bb63dc4e591dac50e4eb10dd81cb4d336ac0560a6b28ceefe31053fa4f24d07</loc>
+	<lastmod>2020-02-19T10:15:17+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/b61635de5f9c4246717d533809699dcfea3c58ad9cb0701b1ef709fbb432e6ab</loc>
+	<lastmod>2020-02-19T10:15:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/8d1e9ae18241d3ea824d5e1308bf19daf1b0276045db0fa53976cabf7eed72d7</loc>
+	<lastmod>2020-02-19T10:15:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/5647</loc>
+	<lastmod>2020-02-19T10:15:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/760b62bbc05bb31ac5164012a8fd38893943757479f4f55dde7c7c0d284da436</loc>
+	<lastmod>2020-02-19T10:15:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/5919</loc>
+	<lastmod>2020-02-19T10:15:19+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/1641</loc>
+	<lastmod>2020-02-19T10:15:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/5223</loc>
+	<lastmod>2020-02-19T10:15:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/24ecc13e597ea25e3388b82bc88f0904664458ca25cd295b6efdad347ad291ea</loc>
+	<lastmod>2020-02-19T10:15:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/3674</loc>
+	<lastmod>2020-02-19T10:15:20+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/bca662b7780903dbb3e40e8007b2cd093cc714a9a3b7da014aea1fe03b16c2e8</loc>
+	<lastmod>2020-02-19T10:15:21+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/3418</loc>
+	<lastmod>2020-02-19T10:15:21+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/bf33f95fee2c61b91795d7591a6bd88f1e4b62653514a4ba9e9d5c22034649ce</loc>
+	<lastmod>2020-02-19T10:15:21+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6336</loc>
+	<lastmod>2020-02-19T10:15:21+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/19c56f366024bef6658bbef73f0504aa50f6cf01cd0e82bbdf0beea4eafb15e0</loc>
+	<lastmod>2020-02-19T10:15:21+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/c6aff5997c4ef7eb94bcfece353006c4b8fd8242a15591ce1af861ef8c5481f9</loc>
+	<lastmod>2020-02-19T10:15:22+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/5151</loc>
+	<lastmod>2020-02-19T10:15:21+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/2983998b7455be3fd2a233ae98743cb10e5bcb36d88cdbec28109f8bb97af804</loc>
+	<lastmod>2020-02-19T10:15:22+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/97d25938024faec520f3788029d78ae8535b788791ff0ee214b51afa2072e9da</loc>
+	<lastmod>2020-02-19T10:15:22+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/4623</loc>
+	<lastmod>2020-02-19T10:15:22+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/fb7efe20485351db5b10477b123cd989efc9a005c34efcc15d66a8d895926134</loc>
+	<lastmod>2020-02-19T10:15:22+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/881af9a7e1353375b5066eaa660391c2ab9bd9afe4f8fe8a50d36396a641e7d2</loc>
+	<lastmod>2020-02-19T10:15:22+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/2297</loc>
+	<lastmod>2020-02-19T10:15:22+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/4868</loc>
+	<lastmod>2020-02-19T10:15:23+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/89e5abdbe68d3fc73e5a2fbe8ebb7c2cdc4cea892e0bae6ceda1164a778e04df</loc>
+	<lastmod>2020-02-19T10:15:23+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/4102</loc>
+	<lastmod>2020-02-19T10:15:23+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/8ab993886035bf10ec09f8802389241a3d55436c2b1c3c51ab8df65ed96ffb76</loc>
+	<lastmod>2020-02-19T10:15:23+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/3797</loc>
+	<lastmod>2020-02-19T10:15:23+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/5befffab74322c94bdfcd0e5f9bdf4fa6ac3cedf088c72bcb5f269814e405bcd</loc>
+	<lastmod>2020-02-19T10:15:24+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/273eafc175099775068ebdca4813800f6249d13d797f479c112a96f7c255c2b1</loc>
+	<lastmod>2020-02-19T10:15:24+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/049acb17c796a0525b5963f54933fdf11f60fbe74dc135917ae41599dcd7976f</loc>
+	<lastmod>2020-02-19T10:15:24+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/5596</loc>
+	<lastmod>2020-02-19T10:15:24+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/1784</loc>
+	<lastmod>2020-02-19T10:15:24+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/5f29883787f1165accf4997683b876c1cbef4cbfbb518ad39166a70742227d73</loc>
+	<lastmod>2020-02-19T10:15:24+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/2258</loc>
+	<lastmod>2020-02-19T10:15:24+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/3338</loc>
+	<lastmod>2020-02-19T10:15:24+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/74eec5324493438a08a007cd32db2add561dbd60f4e87838067a699318712bce</loc>
+	<lastmod>2020-02-19T10:15:25+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/4def8d6b9657fed9148ff1d48d6e1fa805a417409d66c9e5bf66e14629280560</loc>
+	<lastmod>2020-02-19T10:15:25+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/5756</loc>
+	<lastmod>2020-02-19T10:15:25+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/bfe78b02fffc247f08d550014592e0776a781e4808ea73e2da9a83efb743f11b</loc>
+	<lastmod>2020-02-19T10:15:25+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/d8b57f4bfa8ca8725a2534d77334ecf5191189b19fa0d81d8b3de1a6f89385ac</loc>
+	<lastmod>2020-02-19T10:15:25+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/5bbf0c7b5e57a865a923d6bb6cf117dee50bee6e1b925e4cf6bd50555a0db44d</loc>
+	<lastmod>2020-02-19T10:15:25+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6111</loc>
+	<lastmod>2020-02-19T10:15:26+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/4256</loc>
+	<lastmod>2020-02-19T10:15:26+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/304d58bd6586f39f640aeb093a23f006ac22b1d2abd8afaf565c020d6f390b31</loc>
+	<lastmod>2020-02-19T10:15:26+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6507</loc>
+	<lastmod>2020-02-19T10:15:26+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/722393235ea5227c678f6d55f46632eb3a9ca883484212447528a34d6a9036a4</loc>
+	<lastmod>2020-02-19T10:15:27+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/4981</loc>
+	<lastmod>2020-02-19T10:15:26+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/0bfc737ade3345431cbc7fd991df6dae27d7cf2463c1340b7b09d8cc0c543d66</loc>
+	<lastmod>2020-02-19T10:15:27+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/fe08aa2c716c7a10c89c4850355055a3127c29f6edc6b937fc4fc1aa8e367473</loc>
+	<lastmod>2020-02-19T10:15:27+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/20d664c4d893feff0d274efc527bbbde9c7cdc36c3f0048b672160301cc8fb14</loc>
+	<lastmod>2020-02-19T10:15:27+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/ab5312aa3b645db98913c1d9539a245e08df308a6b84f42201cc8f25677eabbe</loc>
+	<lastmod>2020-02-19T10:15:27+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/a55acfbb06d878286edd06d1b4e0552d26a6c821ced060a75c03a2398a18d9f1</loc>
+	<lastmod>2020-02-19T10:15:27+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/d9b46118171c3a40aa75cd1156a22cc47b740a5797238fdf43e95f65320a9a76</loc>
+	<lastmod>2020-02-19T10:15:27+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/4ec3e77da1229112b71907382c033112a2b43fd4bffdc4549034d642897e1db5</loc>
+	<lastmod>2020-02-19T10:15:27+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/d938c777b390efa8e235bc5cf674c674f0ddd450bc54c36cea34234b444dc284</loc>
+	<lastmod>2020-02-19T10:15:28+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/1463</loc>
+	<lastmod>2020-02-19T10:15:28+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/3966</loc>
+	<lastmod>2020-02-19T10:15:28+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/3612</loc>
+	<lastmod>2020-02-19T10:15:28+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/d09ae1b22e0d34cf7af7e004806f3941a72cb02ab4943d9cdab17fda6c1be679</loc>
+	<lastmod>2020-02-19T10:15:28+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/1421</loc>
+	<lastmod>2020-02-19T10:15:29+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/1425</loc>
+	<lastmod>2020-02-19T10:15:28+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/18e8c51f7403918419c42bf22585243e08f9fff38347b61ef3e5474650f855d8</loc>
+	<lastmod>2020-02-19T10:15:29+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/997c5ba886a670cd76def44c09fb6a06aa27228ee0974c783739f8b64f12c8d1</loc>
+	<lastmod>2020-02-19T10:15:29+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/1511</loc>
+	<lastmod>2020-02-19T10:15:29+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/1337</loc>
+	<lastmod>2020-02-19T10:15:29+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6094</loc>
+	<lastmod>2020-02-19T10:15:29+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/13a7aa481ea527e01f514f99147fda887c48d024d7e16ca4eba0223de36f2b0c</loc>
+	<lastmod>2020-02-19T10:15:29+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/090df34b254cbb9c77ed862dbfc826f3925af8688a17ee2f6cfe2279fde45410</loc>
+	<lastmod>2020-02-19T10:15:30+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/23db9e67610add7960098d1c1c32cd19aec6c7db5c48c861ebd286943492b3d2</loc>
+	<lastmod>2020-02-19T10:15:30+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/2363bd7ca5a788d8f9405574d019078a516432a87bf454f9493dea0f500b6e90</loc>
+	<lastmod>2020-02-19T10:15:30+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/224e0b9ab292a4923199f412d8812a9d38db8c36ded26321ba6abeed5057d54d</loc>
+	<lastmod>2020-02-19T10:15:30+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/a2172087e22334ad5000067cb57f97cfffae9525ad06d2af2b1805f776debf73</loc>
+	<lastmod>2020-02-19T10:15:30+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/1640</loc>
+	<lastmod>2020-02-19T10:15:31+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/5222</loc>
+	<lastmod>2020-02-19T10:15:31+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/3f369d14d096e8776f588c3b6e0e3bac38139a58bd77e31bf0bf9778af2ad781</loc>
+	<lastmod>2020-02-19T10:15:31+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/06df8b1d8fbc0e753999f57da236a1c7506816f1eb602067de69b4ce2579dc2a</loc>
+	<lastmod>2020-02-19T10:15:31+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/3673</loc>
+	<lastmod>2020-02-19T10:15:31+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/3675</loc>
+	<lastmod>2020-02-19T10:15:31+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/3419</loc>
+	<lastmod>2020-02-19T10:15:31+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/f6380780b564d4ad23784c9957667f87f9579b2f50402898784794f1e7f79fe4</loc>
+	<lastmod>2020-02-19T10:15:32+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/4811</loc>
+	<lastmod>2020-02-19T10:15:32+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6335</loc>
+	<lastmod>2020-02-19T10:15:32+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/1960590fabc548807dc939b98f959a4a3970cf9421f1f34808f98b7fbd374502</loc>
+	<lastmod>2020-02-19T10:15:32+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/f375380d9ed2ced249e554e8cde68172e5e293518d4a0c199ca600eba93118c5</loc>
+	<lastmod>2020-02-19T10:15:33+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/4929</loc>
+	<lastmod>2020-02-19T10:15:32+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/5150</loc>
+	<lastmod>2020-02-19T10:15:33+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/e978ce9feb08c46f73df9e9272543d9f34c7e070825e8b9741e49c8b74c05511</loc>
+	<lastmod>2020-02-19T10:15:33+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/4b360021d1fc91e9d95643605c3f14c81971c3754d28992ec978d15003817d30</loc>
+	<lastmod>2020-02-19T10:15:33+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/3353</loc>
+	<lastmod>2020-02-19T10:15:33+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/be6f082883e8c6fe3b1f38235e36fd7e903eb298a7161deb8420efe61fe38728</loc>
+	<lastmod>2020-02-19T10:15:33+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/5663</loc>
+	<lastmod>2020-02-19T10:15:33+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/0f0b892ff3b0109a0b7ceabfbc177b66bef130e56805a07e52e8ead5182dd973</loc>
+	<lastmod>2020-02-19T10:15:34+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/2296</loc>
+	<lastmod>2020-02-19T10:15:34+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/2298</loc>
+	<lastmod>2020-02-19T10:15:34+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/4624</loc>
+	<lastmod>2020-02-19T10:15:34+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/4869</loc>
+	<lastmod>2020-02-19T10:15:34+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/89e7aa29f6a3fb40a406ef99add2f461e1d9ed7d87898694d1ce367d7be088cb</loc>
+	<lastmod>2020-02-19T10:15:35+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/35b5edb2faf947bacba808947e10330c1ff84eb74526298b24be01fd2dd8bfc4</loc>
+	<lastmod>2020-02-19T10:15:35+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/b90805eb3a954a85f67b7e98dc8fe0e6d3239cf2aa78e05b10eb81c0c51fdbc4</loc>
+	<lastmod>2020-02-19T10:15:35+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/4101</loc>
+	<lastmod>2020-02-19T10:15:35+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/4103</loc>
+	<lastmod>2020-02-19T10:15:36+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/d14a23ca8d43b0f71ba2790d442106fdf2eee8b844e449fc87a0a403c8e29226</loc>
+	<lastmod>2020-02-19T10:15:35+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6444</loc>
+	<lastmod>2020-02-19T10:15:36+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/f2308425d7a8092e9a877321097493632b01d26c5942ad2c8d7d0ae31bf3014c</loc>
+	<lastmod>2020-02-19T10:15:36+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/5856</loc>
+	<lastmod>2020-02-19T10:15:36+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/3378</loc>
+	<lastmod>2020-02-19T10:15:36+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/f738695cb62e24df540d4c7daa95ac4588940be8a678d381b93fccf2970d9257</loc>
+	<lastmod>2020-02-19T10:15:36+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/1178</loc>
+	<lastmod>2020-02-19T10:15:37+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/5595</loc>
+	<lastmod>2020-02-19T10:15:36+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/c70108215b7ba4f43c5bcdd6b89d22bf4530c18ee59d11e9dbc4f2b28e98678b</loc>
+	<lastmod>2020-02-19T10:15:37+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/2257</loc>
+	<lastmod>2020-02-19T10:15:37+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/79997cb3fd77268936e0d0d94984e411cdbef9cfeb0a9327a21fabaa514be36f</loc>
+	<lastmod>2020-02-19T10:15:37+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/3339</loc>
+	<lastmod>2020-02-19T10:15:38+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/e988fe4bcee75c284f522726ba323664295b8557138456a7996ba6b3c7352a2b</loc>
+	<lastmod>2020-02-19T10:15:37+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/1785</loc>
+	<lastmod>2020-02-19T10:15:37+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/e2fa026f305624f48801b26cc3830d6ccdb842abfaeeb7070f81590b694b8319</loc>
+	<lastmod>2020-02-19T10:15:37+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/4841</loc>
+	<lastmod>2020-02-19T10:15:38+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/a510b9cf07ebf2456def8d6353cc6a49a3d800964d1d7feb5e982459a9f21a0d</loc>
+	<lastmod>2020-02-19T10:15:38+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/34bd03bdda192b03e814b1c3d05efc3e42017778c04eb18e9a6885b3e53d74e6</loc>
+	<lastmod>2020-02-19T10:15:38+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/5757</loc>
+	<lastmod>2020-02-19T10:15:38+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/ec424c4fc6c54ec06c83558869c525766488352e8a71e2314a877aafc4243ab9</loc>
+	<lastmod>2020-02-19T10:15:39+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/5120</loc>
+	<lastmod>2020-02-19T10:15:39+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/4348</loc>
+	<lastmod>2020-02-19T10:15:39+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/2d60cc4d79a7830c7eb2e5b87c3348926ac0ed2070ec50f74ff01bb2f58e569c</loc>
+	<lastmod>2020-02-19T10:15:39+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/4255</loc>
+	<lastmod>2020-02-19T10:15:40+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/4257</loc>
+	<lastmod>2020-02-19T10:15:39+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/543271fe9ce32fabcb1e09851f33ec53df64d033dc2461645e2a13c720d3de16</loc>
+	<lastmod>2020-02-19T10:15:39+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/4913</loc>
+	<lastmod>2020-02-19T10:15:40+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6110</loc>
+	<lastmod>2020-02-19T10:15:40+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6112</loc>
+	<lastmod>2020-02-19T10:15:40+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/8bb94379e4fa72bd0f83d0d685e07d663c1b02c397190610136ba6fd5cfe51b4</loc>
+	<lastmod>2020-02-19T10:15:40+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6508</loc>
+	<lastmod>2020-02-19T10:15:40+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/5b2f290316681bf2276288a0ef441bbf12cbda78b69aad8c3cc1d6a17f5e0cb3</loc>
+	<lastmod>2020-02-19T10:15:41+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/c286df50281598de638c3dbdbc8cfaaa73b1f808b5bbb8c882480947fd769aa2</loc>
+	<lastmod>2020-02-19T10:15:41+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/4982</loc>
+	<lastmod>2020-02-19T10:15:41+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/de37b25e6849886d7dd7f618a939337e23c0e7f43f81e390011b4fd6689ab28d</loc>
+	<lastmod>2020-02-19T10:15:41+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/8272ae82a9cc0d484acd53ff44415b68b1baeb5948a7fae095aaf53ccc6da30c</loc>
+	<lastmod>2020-02-19T10:15:42+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/3767</loc>
+	<lastmod>2020-02-19T10:15:41+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/4f42283b90f7f8623cca85f90becc994c9d0eae84020fa71150dd4bf35fc834c</loc>
+	<lastmod>2020-02-19T10:15:44+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/5830</loc>
+	<lastmod>2020-02-19T10:15:42+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/1462</loc>
+	<lastmod>2020-02-19T10:15:43+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/3965</loc>
+	<lastmod>2020-02-19T10:15:44+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/cae35057487abfff5585fb600a232d61d45ef4f8cf69c5cf530bf509c8b403e3</loc>
+	<lastmod>2020-02-19T10:15:44+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/51b32420a1393cce2556a4be25662785a815b12fbf287a9696780536594e57ee</loc>
+	<lastmod>2020-02-19T10:15:44+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/83adece227091cc78a3b304d7f27ed2461d2297e4e88a5d1cf66c07dff3c9db6</loc>
+	<lastmod>2020-02-19T10:15:44+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/b4b63bf9fe76d9f208e2c784818e11565bc8318d03d2057ee8d5deb8076f3aa5</loc>
+	<lastmod>2020-02-19T10:15:44+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/4572</loc>
+	<lastmod>2020-02-19T10:15:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/1cb99864cff1d34bb1aca39284860eb0a98852da2675f30dab6571ea9072f3b8</loc>
+	<lastmod>2020-02-19T10:15:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/1420</loc>
+	<lastmod>2020-02-19T10:15:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/0f79dee340ab72c0aff5201d189e290b5b016134c7f3197f1b69c55e69f64d0a</loc>
+	<lastmod>2020-02-19T10:15:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/3910</loc>
+	<lastmod>2020-02-19T10:15:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/c361d5157b049d438f32546479e0a6309615ddc269d91d19bfd4ee03d176c3d9</loc>
+	<lastmod>2020-02-19T10:15:46+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/d706157f8bcf28392bfe16ed302369a8348ab784c54ee284f670e62b5717edf5</loc>
+	<lastmod>2020-02-19T10:15:45+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/1338</loc>
+	<lastmod>2020-02-19T10:15:46+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/6095</loc>
+	<lastmod>2020-02-19T10:15:46+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/0cc4debc919f7e1ccb3b4107767aff25731adcec508a553ce5c60d9315f07f29</loc>
+	<lastmod>2020-02-19T10:15:46+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/1510</loc>
+	<lastmod>2020-02-19T10:15:46+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/1512</loc>
+	<lastmod>2020-02-19T10:15:46+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/4112</loc>
+	<lastmod>2020-02-19T10:15:47+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/5e1326c4404cd73767d66e94288be8ae62f542b411ff54e68b83a7630ad238ff</loc>
+	<lastmod>2020-02-19T10:15:46+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/09d2f5a60e8f0fcba9b64289c7ac5231ed6b5a58d316b6e94e02093010e9a1c5</loc>
+	<lastmod>2020-02-19T10:15:47+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/1734</loc>
+	<lastmod>2020-02-19T10:15:47+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/5221</loc>
+	<lastmod>2020-02-19T10:15:48+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/14b28a079f1cb06330bd6855004d04116b6d4cd846e4fd577d5f0db18ae55679</loc>
+	<lastmod>2020-02-19T10:15:47+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/414d236c59216ca0267a3c9536930b8cd8b351c5069c4004e44854f0d1d50fe9</loc>
+	<lastmod>2020-02-19T10:15:47+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/88283a76155393eb293c7578a6aece4f4ee28ee82809e899403f74249e8e9f68</loc>
+	<lastmod>2020-02-19T10:15:48+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/1639</loc>
+	<lastmod>2020-02-19T10:15:48+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/81db397c6124efa54e881e03b2021cd8cf9c9ae2af36dac5a3997ee98e306a35</loc>
+	<lastmod>2020-02-19T10:15:48+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/9d4f0b9d132258725666a9ec59bd18f7ae829dc8d86b35a9c3c37bb360624e49</loc>
+	<lastmod>2020-02-19T10:15:48+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/3672</loc>
+	<lastmod>2020-02-19T10:15:48+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/2d28c6f15e5d94d47bab2b8c116f82008abbf01007b0ae2e0836f3afa95569d0</loc>
+	<lastmod>2020-02-19T10:15:49+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/ea45f06e57cd5f0113fd01834c55cdb4c077d8d9c56093920afe411c39537767</loc>
+	<lastmod>2020-02-19T10:15:49+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/3676</loc>
+	<lastmod>2020-02-19T10:15:49+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/f40c2e37cd610d6f50000670a5357cfefc99a71a6de3ac54463d9a5b1dfdb4cf</loc>
+	<lastmod>2020-02-19T10:15:49+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/360b3852def721f96f751ff387be3d7590556e92f948dde7ffd355a1234136e3</loc>
+	<lastmod>2020-02-19T10:15:50+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/3526</loc>
+	<lastmod>2020-02-19T10:15:49+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/81bd448b134a7a2ef88e788831a26ef3485424c003bf8347300b61e76916588c</loc>
+	<lastmod>2020-02-19T10:15:49+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/3420</loc>
+	<lastmod>2020-02-19T10:15:50+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/4bd06a1eb0bdf5b74da613ffbfdbf467ad5ab07ceeedd13cc3614de6431d36a7</loc>
+	<lastmod>2020-02-19T10:15:50+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/93b0ec19d0b2ce8cce1b272129120fc992702dd74bca4e5c238f083327f4cc05</loc>
+	<lastmod>2020-02-19T10:15:53+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/40c98924f8508a078d751257c35059c787f4a40cfe518a61aa2c9702353394cf</loc>
+	<lastmod>2020-02-19T10:15:50+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/991788895774518bd8cd8be69c637e9136b8590dd7cd9ac94b0cdc73ae423a78</loc>
+	<lastmod>2020-02-19T10:15:50+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/4812</loc>
+	<lastmod>2020-02-19T10:15:50+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/502a50b698db757b79f5bbe16e2ff5a97aff45484abc72605c75f43e975aa5c9</loc>
+	<lastmod>2020-02-19T10:15:51+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/f7a85009fbfe656bbc54c9a81ca094d277c10967e2e8e301613247859ff1a9e2</loc>
+	<lastmod>2020-02-19T10:15:51+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/d96afa445dcfa56f505e17d4ccf20a8fe77b14fd0543a1d2fa6de9afae57be8f</loc>
+	<lastmod>2020-02-19T10:15:51+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/1f592ca31e1f5b76994fb2c1ff16f05d3ff84c124c0f702e138334f2aa5fa51c</loc>
+	<lastmod>2020-02-19T10:15:51+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/4928</loc>
+	<lastmod>2020-02-19T10:15:51+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/15b780a65d439334bda1d75a39b70a609b8432cc0bea26856bfda9db0cca1bc0</loc>
+	<lastmod>2020-02-19T10:15:52+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/5149</loc>
+	<lastmod>2020-02-19T10:15:52+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/76fac980f4aa5d16a620501c00f1ab37ed46fc5971f1d9950aa2bd81d425d43d</loc>
+	<lastmod>2020-02-19T10:15:52+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/728bbfac575b5c87de3dc702043e94f98d41c47ea8f58584baa83a382d639cc1</loc>
+	<lastmod>2020-02-19T10:15:52+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/a7cc63e049e1da9c4ebac831839b7d8a6bfc5f225f5aa25876525b8731722c38</loc>
+	<lastmod>2020-02-19T10:15:52+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/4166</loc>
+	<lastmod>2020-02-19T10:15:53+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/3352</loc>
+	<lastmod>2020-02-19T10:15:53+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/248d77f55fd2db9b2bfa56705a06b2e427672bef33a8410c636cbc4ee911e794</loc>
+	<lastmod>2020-02-19T10:15:54+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/defee8dae4de03ea8f054a5e6edc297c76284fa9b690100bc7ff7d57b0380d89</loc>
+	<lastmod>2020-02-19T10:15:54+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/1a0d6db95c55040f2b3db03dbacc30b6b1a129f4ee507d3ba47261ca6470d215</loc>
+	<lastmod>2020-02-19T10:15:55+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/9e40c6ee7284459aff2dbef775c020469f81e466105a5217bd16da713e651b6d</loc>
+	<lastmod>2020-02-19T10:15:56+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/8d1d2a58f7bbfa35da7024b1aba589fd9401517ca24380e5f7435cc22edef3e7</loc>
+	<lastmod>2020-02-19T10:15:57+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/2256</loc>
+	<lastmod>2020-02-19T10:15:57+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/e10e256a85a36413f3fbdfc2bf59ff58c40342f89e3479a6aa3d6cbc7934b2ab</loc>
+	<lastmod>2020-02-19T10:15:58+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/348cb8a207f0b9e68f0800f59da647284ac4877ff0e9d82450be38115ec6d868</loc>
+	<lastmod>2020-02-19T10:15:59+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/1356</loc>
+	<lastmod>2020-02-19T10:15:59+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/358008418daa248f456cf86f7f344b7b25405cf97378a0aca1aa70df6dbab52b</loc>
+	<lastmod>2020-02-19T10:16:00+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/5022535271391326b977c70cd6dc6b4cc56bb9cf80390a80bee4295af636a5cd</loc>
+	<lastmod>2020-02-19T10:16:01+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/7c09e54930b0ab8273557e9c3534872f0036fe87fe01d23d15bdaa11747f8dda</loc>
+	<lastmod>2020-02-19T10:16:01+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/4914</loc>
+	<lastmod>2020-02-19T10:16:02+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/4461c42a5c61a05bc1f7ebeeddefb0e2dcd60c89e4cea90c132fb50b9124394f</loc>
+	<lastmod>2020-02-19T10:16:03+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/d6769ea479cdd6d2cc15040e102e421eb95a8ed7a807a572f020d155a7498da1</loc>
+	<lastmod>2020-02-19T10:16:03+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/052ade27a9bfa6199b36cfd9fc8e75cad58d066d920c324a73f8cce3c326ca19</loc>
+	<lastmod>2020-02-19T10:16:04+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/5948</loc>
+	<lastmod>2020-02-19T10:16:05+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/1419</loc>
+	<lastmod>2020-02-19T10:16:05+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/3909</loc>
+	<lastmod>2020-02-19T10:16:06+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/923927498addb333e325f5c6998ab8fe789259b3bf6096a97050ca3386dc5e22</loc>
+	<lastmod>2020-02-19T10:16:07+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/6d23a6a55b86a232e570b7cbe0b69b221a47905fba31581bfc0556039ad8e26c</loc>
+	<lastmod>2020-02-19T10:16:07+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/1735</loc>
+	<lastmod>2020-02-19T10:16:08+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/7785f2b64c881db87573a7c30e4c02660a420dda468c1ae58312829af372c8ae</loc>
+	<lastmod>2020-02-19T10:16:09+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/3677</loc>
+	<lastmod>2020-02-19T10:16:09+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/3421</loc>
+	<lastmod>2020-02-19T10:16:10+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/24897a2e7f4a00464598c79104e2607e486c86e6954abe62c9b78b6307ff4a79</loc>
+	<lastmod>2020-02-19T10:16:11+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/ac17a9846717ef450fefbeb7798108ffbe14e11afd5a6155dfdd6b35e86e689b</loc>
+	<lastmod>2020-02-19T10:16:11+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/e3e066957ed0a697c874d87f4cf33d7cf3332185373547775bd286c095968123</loc>
+	<lastmod>2020-02-19T10:16:12+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/3351</loc>
+	<lastmod>2020-02-19T10:16:12+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/5139</loc>
+	<lastmod>2020-02-19T10:16:13+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/959cb2b4d3260f29913159c24338bbffa54606192d2d57006f8f680e8ccdb2ed</loc>
+	<lastmod>2020-02-19T10:16:14+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/5947</loc>
+	<lastmod>2020-02-19T10:16:14+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/block/1418</loc>
+	<lastmod>2020-02-19T10:16:15+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/d5e23e1a731c10ce25303fbb18fdf160df2372fc6e766337bfe9d8ae5612f788</loc>
+	<lastmod>2020-02-19T10:16:16+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/b03a3941e85808e9eedd8f20c040d86443ab61dadfdf7df6d9f2902739937b28</loc>
+	<lastmod>2020-02-19T10:16:17+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/20e38fae46fbfe411c04d2ce22a73467d7f579b004de780c439ba2267b0fd618</loc>
+	<lastmod>2020-02-19T10:16:17+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://bcschain.info/tx/fa003285944db1a3628f678d98ff18fda821b178275006c00c875914d6761c00</loc>
+	<lastmod>2020-02-19T10:16:18+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+</urlset>

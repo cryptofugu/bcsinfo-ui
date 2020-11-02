@@ -19,7 +19,7 @@
           </td>
           <td>{{ blocks }}</td>
           <td class="monospace">{{ (blocks / posBlocks * 100).toFixed(4) + '%' }}</td>
-          <td class="monospace is-hidden-touch">{{ balance | qtum(8) }}</td>
+          <td class="monospace is-hidden-touch">{{ balance | bcs(8) }}</td>
         </tr>
       </tbody>
     </table>
@@ -29,13 +29,16 @@
 
 <script>
   import Misc from '@/models/misc'
-  import {RequestError} from '@/services/qtuminfo-api'
+  import {RequestError} from '@/services/bcsinfo-api'
   import {scrollIntoView} from '@/utils/dom'
 
   export default {
     head() {
       return {
-        title: this.$t('misc.biggest_miners_title')
+        title: this.$t('misc.biggest_miners_title'),
+		meta: [
+			{ name: 'description', content: this.$t('descriptions.misc.biggest_miners')  }
+		]
       }
     },
     data() {
@@ -72,7 +75,7 @@
         return this.$store.state.blockchain
       },
       posBlocks() {
-        return this.blockchain.height - 5000
+        return this.blockchain.height
       },
       pages() {
         return Math.ceil(this.totalCount / 100)

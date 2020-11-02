@@ -2,7 +2,7 @@
   <div class="error-container">
     <p class="is-size-3">{{ error.message }}</p>
     <br>
-    <nuxt-link to="/" class="button is-qtum is-size-5">Back to Home Page</nuxt-link>
+    <nuxt-link to="/" class="button is-bcs is-size-5">Back to Home Page</nuxt-link>
   </div>
 </template>
 

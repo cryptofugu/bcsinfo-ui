@@ -1,0 +1,4 @@
+Useragent: *
+Allow /
+
+Sitemap: https://bcschain.info/sitemap1002.xml

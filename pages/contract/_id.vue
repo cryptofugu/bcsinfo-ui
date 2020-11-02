@@ -17,7 +17,7 @@
         <template v-if="qrc20">
           <div class="columns" v-if="qrc20.name">
             <div class="column info-title">{{ $t('contract.token.name') }}</div>
-            <div class="column info-value">{{ qrc20.name }}</div>
+            <div class="column info-value">{{ qrc20.name }} ({{ qrc20.symbol }})</div>
           </div>
           <div class="columns" v-if="qrc20.holders">
             <div class="column info-title">{{ $t('contract.token.total_supply') }}</div>
@@ -46,15 +46,15 @@
         </template>
         <div class="columns">
           <div class="column info-title">{{ $t('contract.balance') }}</div>
-          <div class="column info-value monospace">{{ balance | qtum }} QTUM</div>
+          <div class="column info-value monospace">{{ balance | bcs }} BCS</div>
         </div>
         <div class="columns">
           <div class="column info-title">{{ $t('contract.total_received') }}</div>
-          <div class="column info-value monospace">{{ totalReceived | qtum }} QTUM</div>
+          <div class="column info-value monospace">{{ totalReceived | bcs }} BCS</div>
         </div>
         <div class="columns">
           <div class="column info-title">{{ $t('contract.total_sent') }}</div>
-          <div class="column info-value monospace">{{ totalSent | qtum }} QTUM</div>
+          <div class="column info-value monospace">{{ totalSent | bcs }} BCS</div>
         </div>
         <div class="columns" v-if="existingTokenBalances.length">
           <div class="column info-title">{{ $t('address.token_balances') }}</div>
@@ -96,12 +96,15 @@
 
 <script>
   import Contract from '@/models/contract'
-  import {RequestError} from '@/services/qtuminfo-api'
+  import {RequestError} from '@/services/bcsinfo-api'
 
   export default {
     head() {
       return {
-        title: this.$t('blockchain.contract') + ' ' + this.id
+        title: this.$tc('blockchain.contract', 1) + ' ' + this.id,
+		meta: [
+			{ name: 'description', content: this.$t('descriptions.contract.summary') + this.id + this.$t('descriptions.contract.token_name') + this.qrc20.name + this.$t('descriptions.contract.ticker') + this.qrc20.symbol + this.$t('descriptions.contract.total_supply') + this.qrc20.totalSupply + this.$t('descriptions.contract.tx_list') + this.qrc20.symbol + '.' }
+		]
       }
     },
     data() {
